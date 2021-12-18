@@ -4,7 +4,7 @@ import json
 import sys
 
 if len(sys.argv) < 2:
-    print('Usage: quickWeather.py city')
+    print('Usage: python3 weather.py city')
     sys.exit()
 
 api = "7abc90b6e62ee65b20c0b8b02c00e4ee"
