@@ -30,7 +30,8 @@ if x["cod"] != "404":
 	current_humidity = y["humidity"]
 	z = x["weather"]
 	weather_description = z[0]["description"]
-	print(f"\n\n\n\n\n**Weather for {name}**")
+	print(f"\n\n\**Weather for {name}**")
+	print("-------------------------------")
 	print(f"description: {weather_description}")
 	print(f"current temp: {current_temperature}")
 	print(f"feels like: {feels_like}")
