@@ -9,7 +9,6 @@ if len(sys.argv) < 2:
 
 api = "7abc90b6e62ee65b20c0b8b02c00e4ee"
 url = "http://api.openweathermap.org/data/2.5/weather?"
-#city_name = input("Enter city: ")
 
 city_name = ' '.join(sys.argv[1:])
 fullUrl = url + "appid=" + api + "&q=" + city_name + "&units=imperial"
