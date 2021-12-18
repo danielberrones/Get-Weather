@@ -12,11 +12,10 @@ x = response.json()
 sunrise = [ctime(v["sunrise"]) for k,v in x.items() if k == "sys" ]
 sunset = [ctime(v["sunset"]) for k,v in x.items() if k == "sys" ]
 
-s = ''
+s,s1 = '',''
 for i in sunset: s += i 
 s = s.split(' ')[3]
 
-s1 = ''
 for i in sunrise: s1 += i 
 s1 = s1.split(' ')[3]
 
@@ -30,7 +29,7 @@ if x["cod"] != "404":
 	current_humidity = y["humidity"]
 	z = x["weather"]
 	weather_description = z[0]["description"]
-	print(f"\n\n\**Weather for {name}**")
+	print(f"\n\nWeather for {name}")
 	print("-------------------------------")
 	print(f"description: {weather_description}")
 	print(f"current temp: {current_temperature}")
@@ -39,7 +38,7 @@ if x["cod"] != "404":
 	print(f"min: {min}")
 	print(f"humidity: {current_humidity}")
 	print(f"sunrise: {s1}")
-	print(f"sunset: {s}")
+	print(f"sunset: {s}\n\n\n")
 
 
 else:
