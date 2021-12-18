@@ -12,11 +12,11 @@ url = "http://api.openweathermap.org/data/2.5/weather?"
 
 city_name = ' '.join(sys.argv[1:])
 fullUrl = url + "appid=" + api + "&q=" + city_name + "&units=imperial"
-response = get(fullUrl)
-x = response.json()
+reqObj = get(fullUrl)
+weathObj = reqObj.json()
 
-sunrise = [ctime(v["sunrise"]) for k,v in x.items() if k == "sys" ]
-sunset = [ctime(v["sunset"]) for k,v in x.items() if k == "sys" ]
+sunrise = [ctime(v["sunrise"]) for k,v in weathObj.items() if k == "sys" ]
+sunset = [ctime(v["sunset"]) for k,v in weathObj.items() if k == "sys" ]
 
 s,s1 = '',''
 for i in sunset: s += i 
@@ -25,15 +25,15 @@ s = s.split(' ')[3]
 for i in sunrise: s1 += i 
 s1 = s1.split(' ')[3]
 
-if x["cod"] != "404":
-	name = x["name"]
-	y = x["main"]
+if weathObj["cod"] != "404":
+	name = weathObj["name"]
+	y = weathObj["main"]
 	current_temperature = y["temp"]
 	feels_like = y["feels_like"]
 	min = y["temp_min"]
 	max = y["temp_max"]
 	current_humidity = y["humidity"]
-	z = x["weather"]
+	z = weathObj["weather"]
 	weather_description = z[0]["description"]
 	print(f"\n\nWeather for {name}")
 	print("-------------------------------")
