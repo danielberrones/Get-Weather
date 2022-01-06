@@ -45,7 +45,5 @@ if weathObj["cod"] != "404":
 	print(f"humidity: {current_humidity}")
 	print(f"sunrise: {s1}")
 	print(f"sunset: {s}\n\n\n")
-
-
 else:
 	print("City Not Found")
