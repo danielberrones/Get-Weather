@@ -1,7 +1,7 @@
-from requests import get
-from time import ctime
 import json
 import sys
+from requests import get
+from time import ctime
 
 if len(sys.argv) < 2:
     print('Usage: python3 weather.py city')
