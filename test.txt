@@ -1,0 +1,3116 @@
+JavaScript Object Notation (JSON) is a standard text-based format for representing structured data based on JavaScript object syntax. It is commonly used for transmitting data in web applications (e.g., sending some data from the server to the client, so it can be displayed on a web page, or vice versa). You'll come across it quite often, so in this article we give you all you need to work with JSON using JavaScript, including parsing JSON so you can access data within it, and creating JSON.
+
+
+The Project Gutenberg eBook of A campaign in Mexico, by Benjamin
+Franklin Scribner
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: A campaign in Mexico
+
+Author: Benjamin Franklin Scribner
+
+Release Date: September 8, 2022 [eBook #68938]
+
+Language: English
+
+Produced by: The Online Distributed Proofreading Team at
+             https://www.pgdp.net (This file was produced from images
+             generously made available by The Internet Archive)
+
+*** START OF THE PROJECT GUTENBERG EBOOK A CAMPAIGN IN MEXICO ***
+
+
+
+[Illustration:
+
+  BATTLE
+  _OF_
+  BUENA VISTA]
+
+
+
+
+  A
+
+  CAMPAIGN IN MEXICO.
+
+  BY
+
+  “ONE WHO WAS THAR.”
+
+  “Variety is the spice of life.”
+
+  PHILADELPHIA:
+
+  JAMES GIHON.
+
+  AND FOR SALE BY ALL BOOKSELLERS AND COUNTRY MERCHANTS
+  SOUTH AND WEST.
+
+  1850.
+
+
+
+
+PREFACE.
+
+
+In thus bringing myself before the public as an author, I offer no
+apology. I make no pretensions to literary merit. The following
+pages were written in the confusion and inconvenience of camp, with
+limited sources of information, and without any expectation of future
+publication. I offer nothing but a faithful description of my own
+feelings, and of incidents in the life of a volunteer. To such as may
+be interested in an unvarnished relation of facts, connected with the
+duties, fatigues and perils of a soldier’s life, I respectfully submit
+this volume.
+
+  B. F. SCRIBNER.
+
+  NEW ALBANY,
+  _Indiana_.
+
+
+
+
+PUBLISHERS’ NOTE.
+
+
+To the interest of a simple personal narrative, this volume adds the
+value of a faithful description of that part of a soldier’s duty in the
+camp and field, which is necessarily excluded from official accounts
+or general histories. It attracted in manuscript the attention of the
+publishers, as a work similar in spirit and purpose to Dana’s “Two
+Years before the Mast,” although necessarily less varied in incident,
+and less comprehensive in information than that very popular production.
+
+The map of the field of Buena Vista by Lieutenant Green, of the 15th
+infantry, is presented as the most accurate yet published, having been
+approved by many distinguished officers as a true representation of
+the ground, and of the relative positions of the corps of the American
+and Mexican armies, on the day of the battle. A careful examination of
+the map and references, will afford a clearer idea of the movements of
+both, and of the progress of the action, than any of the descriptions
+which have yet appeared.
+
+
+
+
+  INCIDENTS
+  OF A
+  CAMPAIGN IN MEXICO.
+
+
+_July._--We left the New Albany wharf, July 11th, 1846, at one o’clock
+A.M., and are now winding our way to New Orleans, on the noble steamer
+Uncle Sam, _en route_ to the wars in Mexico. I am wholly unable to
+describe my thoughts and emotions, at leaving my native home, with its
+endearing associations, and embarking upon a venturesome career of
+fatigue, privation, and danger. I stood upon the hurricane deck, and
+could see by the moonlight crowds of my fellow townsmen upon the bank,
+and in the intervals of the cannon’s roar, returned their encouraging
+cheers. As we glided down, the last objects that met my lingering gaze,
+were the white dresses and floating handkerchiefs of our fair friends.
+How few of us may return to receive their welcome!
+
+I am becoming more and more impressed with the aristocracy of
+office. Those who hold commissions have the best pay, the best
+fare, and all the honor. The private performs the work, endures the
+privation, and when the toils and sufferings of the campaign are over,
+forgetfulness folds him gracefully in her capacious mantle. The cabin
+has been reserved for the staff and commissioned officers, while the
+non-commissioned and privates enjoy decks the best way they can. I
+now realize that when one takes up arms voluntarily in defence of his
+country’s institutions, he forfeits his claim to gentility, thereby
+rendering himself liable to all kinds of cold, cheerless inattention.
+Under a full appreciation of this fact, one of my companions and
+myself applied to the Captain of the steamer for a cabin passage. He
+granted our request, with the Colonel’s consent, and by paying extra
+ten dollars, we were permitted to occupy the last remaining room, and
+enjoy the very great privilege of sitting at the same table with our
+titled superiors.
+
+There are five companies on board, and all appear in good spirits.
+They are following the bent of their several inclinations. At a table
+above me is a group of “Greys” busily engaged in signing resolutions
+indicative of their disapprobation of the course of Gov. Whitcomb and
+his advisers, in officering and forming our regiments. I will not here
+try to show how all our plans have been frustrated, nor speak of the
+many discouraging circumstances under which we go away; suffice to
+say, I willingly signed the resolutions, which will be sent home for
+publication. I pause to listen to a song in which Prof. Goff appears to
+lead.
+
+How pleasing are the impressions made upon the mind by a beautiful
+landscape, when advantageously seen and properly appreciated. We have
+just passed three islands lying almost side by side, thereby giving
+great width to the river. They are indeed beautiful. Viewed in the
+distance they appear like three huge tufts of grass.
+
+
+_12th._--Our noble craft is now ploughing the bosom of the “Great
+Father of Waters.” There is something truly sublime in beholding a
+mighty river moving on in its course, defying every resistance, and
+bearing silently on towards the ocean. There is a tiresomeness in the
+scenery upon the banks of this noble stream, when compared with the
+diversified character of that found upon either side of the beautiful
+Ohio.
+
+It is remarked generally by those among us, accustomed to travelling,
+that a more orderly set of men they have never seen than the volunteers
+from Indiana. The Greys attract much attention by their jokes and
+animation. They lead in the dance, and three of their number take the
+front rank in music. Goff with his guitar, Tuley with his violin,
+and Matthews with his vocal accompaniments, constitute a musical
+trio, possessing power to cheer the soldier’s saddest hour. I have
+formed quite an agreeable acquaintance with the clerks of the boat,
+who manifest much interest in my future welfare. We have just passed
+the mouth of the Arkansas river, and I do not remember to have seen
+a single farmhouse for a distance of many miles, that indicates
+competency or convenience.
+
+
+_17th._--After a most delightful trip of five days we arrived at the
+great City of the South, and are now encamped on the “Battle Ground”
+of the memorable 8th of January. We are almost deluged in water and
+mud, as it has rained almost every day since we left home. Having
+pitched our tents, several of us not particularly delighted with our
+new quarters, sought more congenial lodgings in the city, where we have
+remained ever since, but shall rendezvous and proceed to camp in the
+morning. In relation to my visit to the city, I shall not particularize
+except to say, that I delivered a letter of introduction kindly given
+me by a friend, and was joyfully recognized and received.
+
+
+_18th._--In pursuance of appointment, several of us met next morning at
+the Lower Market, negotiated with some Spaniards to take us in their
+sail-boat to the encampment, and were soon under way. Having arrived,
+we were forced to wade from the river to our tents, nearly to the knees
+in mud and water. We were truly in a sorry plight.
+
+Some of the more enterprising in camp have greatly improved their
+condition, by laying cordwood in the bottom of their tents. Our
+condition is rendered more insupportable from the fact that the
+“Barracks” are so short a distance from us, presenting so much of
+comfort. We truly envy the regulars.
+
+On the afternoon of the same day we received orders to strike tents and
+prepare for embarkation, which we joyfully obeyed. About midnight five
+companies were economically stowed under the hatches of the ship Gov.
+Davis. Our vessel, together with the Partheon, also containing Indiana
+troops, was soon towed onward to the Gulf.
+
+
+_19th._--We entered the Gulf next morning, and started upon our course
+with a fair wind, which, however, was of short duration. It soon
+commenced raining, and while I write, head winds impede our progress.
+Sea sickness and low spirits prevail. I have not yet been affected by
+the former, but am by no means realizing the pleasure trip, which some
+of my friends anticipated. If they could spend a night in the hold of
+this crowded vessel, they would not dream of citron groves or perfumed
+bowers.
+
+
+_20th._--In view of bettering my condition last night, I sought new
+lodgings by climbing up under the seat of an inverted yawl, where I
+slept, or tried to sleep; for the seat was short, narrow and hard,
+as my bones can testify. It was also dark and stormy. The wind, rain,
+thunder, lightning, and creaking of the ship, as she heaved and surged
+through the billows, filled my mind with fear and anxiety, and kept
+me the whole night clinging to my narrow perching place. The sky is
+now clear, and wind fair, and the whole face of nature changed. We
+are gracefully gliding through the white spray, as it glitters in the
+sunbeams. The gorgeously tinted clouds are reflected upon the waves, in
+all the colors of the rainbow. This is the first time I have enjoyed a
+scene at sea, or fully realized being out sight of land. The undulating
+motion of the vessel, instead of making me sick, produces real
+pleasure. How exhilarating to feel ourselves riding up, up, and down,
+down with such regularity, fanned by the breezes that whistle through
+the sails!
+
+
+_21st._--Last evening was spent in organizing a debating club from
+the soldier fragments of the Caleopean Society, together with several
+new members. Grave and powerful speeches were made, and the question
+“Should the pay of volunteers be increased?” was discussed in a
+masterly manner. Arguments on both sides were unanswerable, and
+consequently unanswered. But as the exercises were got up more for
+amusement than improvement, they closed at an early hour, with a
+musical finale by the trio performers, who, with the captain of the
+ship, and others were convened upon the quarter-deck. We then stretched
+ourselves upon the deck, where we slept undisturbed, save when in the
+way of the sailors managing the ship.
+
+This morning there appeared to be a general depression of spirits
+among the Greys. Complaints were heard from many who before had not
+been known to murmur. Our quarters between decks are truly unenviable,
+and the heat and stench almost insupportable. We had a fine treat
+to-day for dinner. The captain of the Greys had the good fortune to
+capture a young shark. It was very acceptably served up in the form of
+chowder. The wind is rather more favorable than it has yet been, but
+our progress is still slow, and it is the general opinion, it will be
+several days before we arrive at Point Isabel. Another and myself spent
+a portion of the afternoon upon the quarter deck reading plays from
+Shakspeare, after which we were all richly entertained in listening to
+the glowing descriptions of Napoleon and his marshals by Headley.
+
+
+_22d._--We have now fair wind, and are making fine speed. This morning
+the reading party was broken up by the fantastic gambols of a shoal
+of porpoises. This was quite an incident, and was hailed with much
+pleasure by the ennui-burdened passengers. At noon we found by the
+altitude, that we were but six hours’ sail from Galveston, and but
+half way to our destination. The captain says if the wind continues
+favorable, we shall, however, reach there in two days. I have felt
+gloomy and low spirited all day; owing, I suppose, to our uncomfortable
+situation.
+
+
+_23d._--This has been a miserable day. I do not think I ever spent
+one more unhappily. In fact, ever since I have been aboard this ship,
+I have had the blues most supremely. The crowd, the confusion, the
+dirt, the continual heaving of the vessel, and the dismal wo-begone
+countenances, of companions, are well calculated to fill the mind with
+reckless despondency.
+
+
+_24th._--We are now lying at anchor five miles from Brazos Santiago.
+About 8 o’clock, last night we witnessed the affecting sight of
+a burial at sea. It was indeed a thrilling scene. The moon and
+stars shone in all their brilliancy, as if indifferent to human
+woes. The body of the dead wrapped in his blanket--the soldier’s
+winding-sheet--was brought upon deck. A few words of consolation to
+friends composed the ceremony, and the body was lowered into the quiet
+deep, food for the “hyenas of the ocean.” I never shall forget the
+foreboding pause of the vessel, or the awful splash of the corpse
+as it fell into its watery grave. With sad emotions awakened in my
+bosom, I lay down upon the quarter-deck, and was ruminating upon the
+blighted hopes of this unfortunate youth, when I was aroused by an
+approaching storm. I sought shelter in the hold, but the crowd, the
+heat, the stench and the groanings of the sick, rendering it almost
+insupportable, I soon went aloft, preferring death by drowning to
+suffocation. The rain had ceased, but having lost my blanket, I was
+forced to take the wet deck and make the best of it. We shall have to
+remain on the vessel anchored in the offing, until conveyed ashore by
+steamers, to procure which the general and staff have just started in a
+long boat.
+
+It is grateful, under any circumstances, to have friends, but how much
+additional pleasure it gives to find them among strangers. To find one
+here and there, who can sympathize with us in misfortune, and feel
+interested in our welfare, when we least expect it, is calculated to
+give us better views of humanity. My thoughts were directed to this
+subject by the kindness of one of the mates of the ship. One day,
+when I was sitting in a rather musing mood, he introduced himself
+by familiarly accosting me with “Frank, how goes it?” After some
+conversation on matters of present interest, he inquired how I came
+to volunteer. I explained to him some of the causes. Among others
+I told him the “Spencer Greys” was an independent company formed
+several years ago, and chiefly composed of young men of New Albany.
+They had attracted much attention by the splendor of their uniform,
+their prompt and accurate movements in the drill, and their superior
+skill in target firing. They had won many prizes from neighboring
+companies, and thereby gained a celebrity, as possessing all the
+requisite qualifications to meet the foe, providing courage, that
+essential quality in a soldier, was not wanting. The call went forth
+for volunteers, and the inquiry was naturally made, “Where are the
+Greys?” To say nothing of the many motives that may prompt, pride to
+sustain the reputation already gained was sufficient for most of us.
+Our company was filled up, and we reported ourselves in readiness to
+the governor, and were duly accepted. Here my new friend was called
+to supper, and upon declining to accompany him, he kindly insisted I
+should receive a package of finely flavored cigars, upon which I can
+regale luxuriously.
+
+
+_25th._--We are still waiting in the most painful suspense and anxiety,
+for transportation ashore. For my own part I have made up my mind to
+bear everything like a philosopher. I entered upon this campaign,
+expecting to meet with privation and suffering; and judging from the
+past I am likely to realize my expectations. But trifling officers,
+and our very unpleasant situation on this filthy ship, are distresses
+that most of us overlooked in our calculation. Hereafter I am resolved
+to take everything easy, and complain as little as possible. Surfeited
+with bacon and hard mouldy bread, and in consideration of the frequent
+invitations from the mate to eat with him, I went to the steward, and
+negotiated for one dollar a day to take my meals at the table of the
+ship. After dinner I was beckoned to the lower cabin by my friend the
+mate, where he brought forth a rare collation, upon which we feasted
+like epicures. He opened his chest and showed me many curiosities from
+China, Java, and other foreign countries. He also furnished a list
+of clothing, handkerchiefs, paper, pencils, and lastly his hammock,
+and begged me to take freely anything that would contribute to my
+comfort, as it would give him great pleasure to share with me. I
+declined receiving anything upon the ground that I was well provided,
+and could not carry his hammock, upon the comforts of which he so fully
+expatiated. I did, however, accept a superior cedar pencil, and warmly
+thanked him for his kind offers. He tells me he is a native of Boston,
+and a brother of Thayres, who is interested in the Boston and Liverpool
+line of steamers.
+
+
+_26th._--We are spending another Lord’s day in a heathenish manner.
+There are very few among us who spend the day differently from other
+days. We have not yet heard from our officers. Most of us have ceased
+to make calculations upon the future. How strangely is man subject to
+fluctuation of feeling!--with what suddenness the mind can fly from
+pleasure to pain! Last night I realized this in its fullest sense. I
+was seated astern luxuriating under the influence of a fine cigar,
+(thanks to my new friend,) and for the first time witnessed a clear
+sunset at sea. It was one of the most glorious scenes I ever beheld.
+The whole western sky was illuminated with the most gorgeous colors.
+The refulgent sun slowly sinking into the liquid blue until nearly
+immersed, sank at once, and a dark mist shot upward in his pathway to
+the clouds, which still retained their variegated tints. The whole
+scene was sublimely beautiful, and filled me with a joyful enthusiasm.
+The sea breeze, and the graceful rocking of the ship contributed to
+the effect. At such a moment how sweet is the thought of home, and the
+pleasures we long to share with loved ones left behind! These alluring
+reflections led me at length to a vein of melancholy, and produced a
+complete reaction in my whole feelings, which harmonized well with the
+changed and threatening aspect of the gathering clouds. We have just
+been thrown into a state of intense excitement by the arrival of a
+steamer which has taken three of our companies. The rest will remain
+till morning.
+
+
+_27th._--According to arrangement, the steamer arrived this morning,
+to transport us to the island. During the bustle of transfer, we were
+attracted to the stern of the ship, where the sailors had caught a
+shark, on a hook baited with bacon. Soon a great crowd was collected,
+many climbing over the bulwarks and among the rigging to witness the
+captured fish. He was at length harpooned and shot, but was so large
+we could not conveniently bring it on board. Just as we were leaving
+the ship an affray took place between the steward and one of our men,
+which was soon participated in by the mates, and many of our party.
+Several blows passed, pistols were presented, and for a time serious
+consequences were feared, but the trouble was soon settled, when the
+mate understood the circumstances of the case. It appeared that one
+of our men and an officer claimed the same piece of ice, each one
+persisting in having bought it of the steward, to whom it was at last
+left to decide. He declared in favor of the officer and gave our man
+the lie, &c. Then came the knocks. But as I said before, everything was
+soon adjusted, and we separated with perfect good feeling. As we shoved
+off the mates and crew (steward excepted) leaned over the bulwarks, and
+gave us three hearty cheers. We landed at Brazos Santiago about noon,
+having had several hard thumps as we passed the reefs.
+
+
+_28th._--Yesterday about dark we pitched our tents, and ate our
+suppers, after which many of us proceeded to the beach, and enjoyed
+the luxury of sea-bathing. The convenience here for this refreshing
+operation cannot be surpassed. We waded out on the reefs and turning
+our faces to the shore, received the angry surges upon our backs,
+or facing them again could see one after another coming at regular
+distances, roaring like a cataract fall, and with foam and spray,
+dashing onward, like a white plumed army rushing to the charge. In
+regular succession they swept over our heads. We were all highly
+delighted with the novelty of the scene, which may be enjoyed, but not
+described. After rising this morning, the first thing was to repeat
+the exercises of last night, which greatly refreshed us, and sharpened
+our appetites for the morning meal. The scorching rays of the sun came
+down upon us “doubly distilled and highly concentrated;” the effects
+of which are, however, greatly counteracted by the sea-breeze. The
+thermometer stood yesterday at 90°.
+
+The island is about 3¹⁄₂ miles wide, and very prolific in oysters,
+clams, crabs and fish. It may be compared to a sand bar occasionally
+diversified by little mounds, which are moved about by the storms that
+visit it. I am told that not long ago several families were destroyed
+by one of these dreadful tempests. One of our officers, when walking
+along the beach the other day, unconsciously trod upon the exposed body
+of a man partially decayed, that two weeks ago was buried six feet
+in the sand. I am informed that the 1st Indiana regiment will leave
+for the Rio Grande in two days. If this be the case, our stay here
+will not be long. There are about 5000 troops here, most of whom will
+leave before us. We are in fine health and spirits, and continually
+congratulating ourselves, upon our escape from the detested ship.
+
+
+_31st._--I have spent the last two days in running about, and in
+writing letters to my friends, one of which I shall here embody in my
+journal, as it contains all that has transpired since my last date:
+
+“Having already delayed too long, in hopes of sending you some news,
+I will commence at once, as your facilities for obtaining the truth
+are not much better than mine. There are so many conflicting rumors
+continually floating about the camp, and orders arriving daily
+purporting to be from Gen. Taylor, that we are getting to believe
+nothing, and to make as few calculations upon the future as possible.
+I shall therefore send you nothing in the news line that I don’t think
+correct.
+
+“The 1st and 3d Indiana regiments left yesterday for the Rio Grande,
+the mouth of which is eight miles down the beach. From thence they will
+be taken by steamboats up the river. We expect to start on to-morrow.
+Some say we will stop at Barita, and others at the head-quarters
+opposite Matamoras.
+
+“I am sitting upon the sand and writing this, while some of the
+boys are cooking, others washing, and some enjoying the luxury of a
+sea bath, hunting shells, oysters, &c. We would all present a novel
+appearance, could you see us now. I sometimes almost lose my own
+identity. The sudden change of occupation and associations affects us
+all.
+
+“The health of the company is good, and all are making the best of
+everything. We have but two or three sick, and they are recovering,
+except one, and he is very low. He has been prevailed upon to accept
+a discharge, and will return home in the first vessel. He is a good
+fellow, and all of us regret to part with him.
+
+“General Lane has just returned from an interview with General Taylor,
+bearing orders for us to leave in the morning. Another election in our
+regiment for Colonel will take place this evening, and, if possible, I
+will send you the result.
+
+“The day before yesterday another and myself obtained permission to
+visit Point Isabel. We accordingly set out early in the morning. After
+crossing the Brazos in a sail-boat, we first visited the hospital
+containing the sick and wounded of the 8th and 9th. The rooms were
+large and airy, and everything characterized by cleanliness and order.
+It is an affecting sight for an American to behold his countrymen
+wounded in carrying out the demands of his government, to see them with
+their legs and arms blown off, rendering them ever afterwards incapable
+of enjoying active life. I was surprised and delighted with the
+patience and good humor they exhibited, and with what good feeling the
+infantry and dragoons joked and rallied each other. The first instance
+was brought about by my addressing one of them with, ‘My friend you
+do not look much like a wounded man.’ Said he, ‘I wasn’t much hurt,
+but that man sitting on my right, belongs to May’s dragoons, who have
+so immortalized themselves. He was shot all over with six pounders.’
+The one pointed out pleasantly rejoined. ‘You are jealous because we
+fought harder than you did.’ Then turning to us he continued: ‘Yes,
+the infantry got into a difficulty and cried, “come and help us;”
+that was enough, so we rode up and saved them; now they envy us our
+distinction.’ ‘No we don’t,’ replied the other, ‘no we don’t. We
+know you did all the fighting. Uncle Sam could not get along without
+you.’ ‘Do you see,’ said the dragoon, still addressing us, ‘how they
+try to take away our laurels? I will not talk with my inferiors. You
+know our privates rank with their orderly sergeants.” We then passed
+on to others, who freely answered all our questions. They are all
+convalescent with the exception of one prisoner, who was shot in both
+legs. One leg has been amputated, and it is supposed the other will
+have to be, and that he will not be able to survive the operation. From
+here we proceeded to the armory, and were shown some copper balls taken
+in the late battles. We then visited Major Ringgold’s grave. It is
+enclosed with a wooden fence, the rails of which are filled with holes,
+so as to admit musket barrels. These form the palings, the bayonets
+serving as pickets. Two boards painted black serve for tombstones.
+The newly made graves of volunteers were scattered around, with no
+names to distinguish them. Thus we realize all their day-dreams of an
+unfading name. We then retraced our steps towards the quartermaster’s
+depot, stopping at intervals to speak with the regulars, who were very
+courteous and patronizing, evidently feeling their superiority.
+
+“At the outer edge of the entrenchments, we passed by a party of
+Mexicans. We could not but exclaim, ‘Are these the people we came to
+fight against?’ You can form no idea of their wretched appearance,
+without thinking of the most abject poverty and ignorance. They had
+brought hides to sell, on carts with wooden wheels, drawn by oxen
+with a straight stick lashed to the horns for a yoke. Having arrived
+at the quartermaster’s, we were shown some pack saddles, and camp
+equipage taken in the two battles. I never was more disappointed with
+the appearance of a place than I was with Point Isabel. The government
+houses are built principally like barns with canvas roofs. There are in
+the place only three or four old Spanish huts, with thatched roofs; the
+rest are tents and canvas covered booths. Capt. Bowles has been elected
+Colonel by about 100 of a majority. We start for the mouth of the Rio
+Grande to-morrow at daylight.”
+
+
+_Aug. 1._--As I stated in the foregoing letter, W. A. Bowles of Orange
+County is now our Colonel elect, Captains Sanderson and Reauseau being
+the opposing candidates. I shall here refrain from speaking of the
+present defeat, but I am well assured that Sanderson was honestly
+elected at New Albany; and yet losing one of the company returns, was
+enough to break the election, although the clerks were willing to
+swear that Sanderson had a majority! How we have been gulled and led
+about by a set of political demagogues, who, regardless of the fearful
+responsibility, have forced themselves into positions they possess no
+qualifications to fill, with a hope thereby to promote their future
+political aggrandizement. O! shame on such patriotism!--According to
+orders early this morning, we took up the line of march for the mouth
+of the Rio Grande, stopping only to prepare to wade the lagoon. Having
+arrived, we pitched our tents to await transportation.
+
+
+_19th._--By way of relating what has transpired in the last two weeks,
+I will copy a letter to two of my relatives, containing most that I
+would have journalized.
+
+“I received your letter, and under no circumstances could it have been
+more acceptable. The company left the mouth of the Rio Grande on the
+3d inst., except one of the lieutenants and myself, who were sent
+up the day before with eight men, to guard the commissary stores. We
+arrived at this place, Camp Belknap, fourteen miles below Matamoros,
+in the night, and remained on duty in the rain and mud with no shelter
+for twenty-six hours. When the regiment arrived, we exchanged the duty
+of sentinels for that of pack horses. We carried our baggage and camp
+equipage, nearly a mile through a swamp, into the chaparel situated on
+a slight elevation or ridge. It is universally admitted that a chaparel
+cannot be described. I shall therefore attempt it no further than to
+give some of the outlines of its character.
+
+“At a short distance it is indeed beautiful, resembling a well
+cultivated young orchard. Upon a near approach we find the largest
+trees do not exceed in size the peach or plum tree. These are very
+crooked and ill-shaped, with pinnate leaves somewhat resembling the
+locust. They are called musquite trees, and are scattered about at
+irregular distances. The intervals are filled up with a kind of
+barren-looking under-growth, which meets the branches of the former.
+Prongs of this bush, with sharp steel-colored thorns, shoot out in all
+directions, commencing just above the surface of the ground. The rest
+of the chaparel is composed of all kinds of weeds, thickly interwoven
+with briars, and interspersed with large plats of prickly pear and
+other varieties of the cactus family.
+
+“I am conscious I have not done this subject justice. My powers of
+description are inadequate, and in order to have a full and clear
+conception of a chaparel, you must see and feel it too. Two days
+occupied in clearing it away, preparing for an encampment, will give
+any one a clear idea of its character. The expression so common with us,
+
+  All bushes have thorns
+  All insects have horns,
+
+is almost true without exception. Even the frogs and grasshoppers are
+in possession of the last mentioned appendages.
+
+“Our encampment is beautifully situated upon a grassy ridge, bounded
+in front by the Rio Grande, opposite Barita, and in the rear by a vast
+plain bedecked with little salt lakes. Now if you think this a romantic
+spot, or that there is poetry connected with our situation, you need
+only imagine us trudging through a swamp, lugging our mouldy crackers
+and fat bacon, (for we are truly living on the fat of the land,) to
+become convinced that this is not a visionary abode, but stern reality.
+I have yet encountered but little else than sloughs, thorns, and the
+‘rains and storms of heaven,’ and consequently have not appreciated the
+clear nights and bright skies of the ‘sunny South.’ At present we have
+finer weather, and it is said the rainy season is nearly over.
+
+“I hope that by speaking freely of things as they are, I am not
+conveying the idea that I am discontented. Notwithstanding the
+attractions of home, and the greatness of the contrast when compared
+with these scenes, I never yet have regretted the step I have taken. We
+sometimes think it hard to bear with the ignorance and inattention of
+our field officers. The badly selected ground and our frequent want of
+full rations may possibly not be attributable to their ignorance and
+neglect, but they are certainly the ones to whom we look for redress.
+Other regiments around us better officered, fare very differently. I
+visited another corps the other day, and to my surprise found that they
+had for some time been drawing an excellent article of flour, good
+pickles, and molasses. This was the first time I knew that such things
+could be obtained, except from the sutlers, who charged seventy-five
+cents per quart for the last-mentioned article.
+
+“The more I see of our boys the stronger is my impression that a better
+selection could not have been made. Our messmates are all well chosen,
+and had we no other difficulties than those incident to a soldier’s
+life, a happier set of fellows could not be found. The plans we form to
+enliven, not only succeed with ourselves, but attract other companies.
+Our quarters are frequently sought by them, to listen to our music, and
+look upon our merry moonlight dances.
+
+“I am sometimes struck with the patience and philosophy exercised, even
+while performing the humiliating drudgery of the camp. In my own case I
+do not know whether it is owing to my selection of companions or not,
+but I have never realized the exhaustion and fatigue a description of
+our manner of procuring water and provisions would indicate. I have
+just returned from one of these expeditions, and will here give you a
+faithful description of the schemes resorted to, in order to lighten
+our burdens. Another and myself set out with two iron camp-kettles
+swung upon a tent pole. Walking about half a mile up the ridge, we
+came to the crossing place--the narrowest place of the slough, which
+ebbs and flows with the tide. This is unfit to drink on account of
+possessing the essence of weeds, distilled by the combined action
+of water and sun. In this clime he trifles not, but sends his rays
+down with earnestness and energy. Well, after struggling through the
+tangled weeds with water nearly to the waist, we in due time arrived
+at the bank of the river, dipped up our water and sat down to rest.
+We found but little inconvenience in getting water from the stream,
+as it was filled to the top of its banks. The country here of late
+has been almost inundated. The oldest residents say such a flood has
+not been before for thirty years. If there is fatigue in going with
+empty buckets, you may readily conceive what is the effect of filled
+ones returning. The pole was kept continually twisting by the swinging
+motion of the kettles, it being impossible to keep them steady on
+account of the irregularities of the road. The difficulties of the
+journey were greatly augmented by the depth and tenacity of the mud,
+which kept us plunging about, and to our great consternation, causing
+us to spill the precious liquid.
+
+“From this description you may think we had a cheerless trip. It was
+not so. All was characterized by good humor. We started out crying
+the lead, ‘a quarter less twain,’ until we exhausted the vein; then
+turning military, the command was given, ‘guide right, cover your file
+leader, left, left, left,’ &c. The novelty of the scenery and _genial
+influences_ of the sun,--for I know of no other cause,--gradually
+excited our minds as we proceeded through the quiet wave, and inspired
+us to more noble and exalted demonstrations. Glory became the subject
+of our song. Touching quotations from the poets, and inflamed,
+impressive recitations, from ardent, patriotic orators and statesmen,
+were resorted to, expressive of the high aspirations with which we
+set out upon this glorious campaign. We then in lower tones spoke
+of the realization of these day-dreams. With feelings thus awakened
+we continued our wade. As we approached the land, whether it was
+owing to a sensitive feeling upon the shoulders, a general physical
+debility, the interesting associations, or the lulling murmur of the
+ripples in our wake, I pretend not to say; at any rate ‘a change came
+over the spirit of our dreams.’ Our minds reverted to the pleasing
+recollections of home. The departed shades of good dinners, and clear,
+cool refreshing drinks, rose before us, seducing our appetites from
+coarser fare. Thus ended our trip, which, from our own reflections, and
+the ludicrous contrasts of the present with the past, wound up with the
+heartiest merriment. Safely landed, we drained our boots and proceeded
+to tent No. 1., where the water was received by our thirsty messmates
+with countenances expressive of joy and satisfaction.
+
+“The day before yesterday we lost one of our comrades, John Lewis, who
+died from the effects of measles. Not one, to my knowledge, taken down
+here with this disease has ever recovered. He was the second in size in
+the company, and possessed a powerful frame and a strong constitution.
+We gave him a soldier’s burial. We have obtained discharges for all our
+sick who are dangerously ill. There is but a small chance for recovery
+here. The disease may be partially overcome, but to regain strength,
+when but little reduced, is almost impossible. I don’t wonder that our
+hospitals are full when I think of that dreadful slough. For my own
+part I was never blessed with better health. Ever since we landed at
+Brazos, I have not in a single instance failed to report myself fit
+for duty, at roll call every morning. None have escaped better. The
+boys say I look so much like a Mexican in complexion, you would hardly
+recognize me. I cannot say much about my face, as I seldom get a sight
+of it, but my hands look very much the color of a new saddle. You would
+be surprised to see the bronzing effect of the sun upon our finger
+nails. This climate suits my constitution admirably, you therefore need
+give yourselves no uneasiness about my health.
+
+“I do think I never had anything diffuse joy more suddenly through my
+heart, than did the arrival of your letter. I had just returned from
+wading the slough, loaded with provisions, as the company was going out
+on four o’clock drill. I was wet to the waist, and worn out by heat and
+over exercise. I perceived one of the lieutenants beckoning to me with
+a paper in his hand. As soon as he attracted my attention, he threw it
+on the ground, and hastened to join the company, which was marching to
+the parade ground. I seized it, and without changing my clothes read it
+over, and over again. It was soon spread among my friends, that I had
+received a letter, and congratulations from all were showered upon me.
+I read the expression, ‘Home; that word is dearer to you than ever,’
+which met with a hearty response.
+
+“The camp is continually agitated by rumors brought in by our scouting
+parties. The other day the regiment was ordered out, our effective
+force computed, and ammunition distributed, on account of one of these
+reports.
+
+“You say you often wonder what I am doing. I will give you our daily
+order of exercises. We are aroused at daylight by the reveille, and
+have a company or squad drill for two hours; after which eight men and
+a sergeant, or corporal, are detailed for guard. Company drill again
+at four o’clock and regimental at five. The intervals are filled up
+in getting wood, water and provisions, cooking and washing. Hunting
+parties go out sometimes and kill fowls, cattle, wolves and snakes. One
+day last week mess No. 14 served up for dinner a rattlesnake seven feet
+long. There are many things I should like to write, but having already
+spun this letter to an outlandish length, I conclude by thanking you
+for the attention and consolation you have given my dear mother. The
+affectionate regards of my brothers greatly encourage me. I am writing
+this lying on the ground, with my paper on my blanket, and with noise
+and confusion around.”
+
+
+_31st._--If our spirits are depressed, and loneliness and ennui pervade
+our feelings, when in good health, how much greater must be the
+discontent and gloom that weigh upon us when sick? Nothing could be
+more unenviable than my situation for the last two days. Last Thursday
+we moved our encampment about a mile further down the river, below
+the slough, upon the ground formerly occupied by the 2d regiment from
+Kentucky. The heat, rain, violent exertions and other causes combined,
+have brought upon me the prevailing disease of the season. I have
+suffered from accompanying headaches and fever. My condition has been
+much ameliorated by the kind attentions of officers and men. These
+examples of generosity are teaching me gratitude, but I place myself
+under obligation as little as possible.
+
+If any one should wish to fully appreciate home with its endearing
+associations, let him imagine himself a sick soldier, with his body
+protected from the ground only by the thickness of his blanket, a coat
+or knapsack for a pillow, and the hot scorching sun beating through
+his crowded tent. And in the intervals of a burning fever, should his
+aching bones find repose in sleep, and in dreams
+
+  “Friends and objects loved
+  Before the mind appear,”
+
+yet how fleeting are all earthly joys! The company on the right must
+be drilled. He dreams again. He meets in fond embrace the object of
+his purest affections, and is about to snatch a warm kiss of welcome.
+That detested drum. Complain not. The sentinels must be relieved. I can
+write no more now. My head grows dizzy.
+
+
+_September 2d._--Last night the whole encampment was thrown into the
+most intense excitement, by a row which broke out between two companies
+of Georgia troops, who were embarking on the steamer Corvette for
+Camargo. The combatants were principally Irish, and fought with their
+characteristic determination. Although we were some distance from the
+river, we could hear distinctly the blows, and demoniacal yells of
+the rioters, which were truly appalling. The conflict continued for
+two hours, during which several were killed, and wounded, and quite a
+number terribly bruised, and others were knocked overboard and perhaps
+drowned. Colonel Baker, of the 4th Illinois regiment, marched on board
+with twelve men, and demanded peace. He was himself attacked by four
+men with bayonets, which he warded off with his scabbard, at the same
+time defending himself with his sword, from the attack of the Irish
+captain, and succeeded in disabling him, by thrusting his sword into
+his mouth, and cutting open the whole side of his cheek. A savage
+yell was immediately heard from the mob, and the report of a pistol,
+which was aimed at the brave colonel’s head. He fell badly wounded,
+the ball entering the back of his neck, and coming out of his mouth.
+Then came the cry, “Help, your colonel is shot,--they have killed
+Colonel Baker.” This was too much, and we made a simultaneous rush
+for our arms. Colonel Bowles ordered out five companies, the Greys
+among the number,--and in five minutes we had a line formed around the
+boat, and the riot quelled, before the Illinois regiment had arrived.
+The exposure of last night has quite laid me up to-day, although the
+captain of the guard called me from the ranks, and sent me to my
+quarters long before morning.
+
+This has been a solemn day. We had two burials, and it is thought
+Colonel Baker will not recover. The whole day has been occupied in the
+court martial, which has resulted in sending the officers engaged in
+the riot, under arrest, to General Taylor, who is now at Camargo.
+
+
+_7th._--I am as well as ever again, and on duty. The regiment has just
+been mustered by Captain Churchill, for two months’ pay. I have been
+gloomy and low-spirited all day. When I reflect upon my situation here
+in contrast with that at home, I can hardly realize that I am the same
+person. Everything appears like a dream, and I almost believe I am
+acting a part in which my own character is not represented. I am thrown
+among the temptations of camp, but do not think the effect will be
+demoralizing, or its impressions lasting. The more I see of vice and
+dissipation, the firmer I believe a moral and virtuous life constitutes
+the only sure guarantee of happiness. If permitted to return home, I
+shall better appreciate its blessings, be a better friend, a kinder
+brother and a more dutiful son. The more I know of the world, the
+higher value I set upon friends. Oh! how sweet to enjoy their society,
+and feel the capacities of the affections filled with congenial
+objects! Here I have nothing to love, no one who knows my heart, or
+understands my feelings. When I recall the impressions of mind under
+which I volunteered, I have a presentiment that an unhappy fate awaits
+me. I doubt whether a warm heart or a flowing soul is a source of more
+pleasure than pain to its possessor. * * * *
+
+
+_14th._--Two others and myself have just returned from a visit to
+Matamoros. Three or four days since we left the camp in company with
+several of the officers, on board the steamer Whiteville. They were
+going to draw pay. The captain of the boat was quite disconcerted to
+see so many of us (nearly twenty in all), coming on board. Having got
+under way he still insisted he could not accommodate us; that he had
+no right to stop for us, and that our orders from the quartermaster
+were nothing to him. After much debate in relation to provisions,
+starvation, &c., we settled down, and made up our minds for the worst,
+which was bad enough, to say the least. The boat lay-to at night on
+account of fog and the serpentine windings of the river. We stopped
+twice to wood on the way. The ranchos along the banks are principally
+owned by the rich, who live in the cities. General Arista’s crossing
+was the first place we stopped. There are here about half a dozen
+thatched huts, and about twenty “peons” employed in cutting wood, and
+hauling it on carts with wooden wheels. Quite a number of us went
+ashore and distributed ourselves among them. I went to the farthest
+hut, where I was greatly amused by the little urchins. They were
+running around the yard perfectly naked, notwithstanding the rain was
+pouring down in torrents. I approached the house which contained one
+man, two women and three or four children. They all arose, and made
+the kindest demonstrations for me to enter. I declined, at the same
+time pointing to my muddy feet. They signified “never mind the mud,”
+and I walked in and seated myself upon a bench. One of the females
+furnished me with a cushion to sit upon, covered with cloth of their
+own weaving, which was fringed and ornamented with the brightest and
+most showy of colors. We could understand each other very well upon
+some subjects, such as the various articles of clothing, and the
+prices of the different materials. Everything in the room was of the
+roughest construction. The fire was placed at one end of the room upon
+a floor, which was of the most primitive order. An aperture in the
+roof served for a chimney, which but partially performed the agency.
+They were destitute of chairs and bedsteads. Hides spread upon the
+ground constituted their beds, an arrangement admirably adapted to
+prevent injury upon the heads of children, caused by falling during
+the dreamy hours of sleep. I was greatly pleased with the two women,
+and with one especially. She appeared to belong to a higher station.
+She was apparently about twenty-one, and looked very differently from
+any of the sex I had yet seen in that region. Her forehead was high
+and intellectual, her countenance was animated and intelligent. In
+her ears were large golden pendants, which contrasted strangely with
+the rude furniture around. Her beautifully delicate hand did honor
+to the glittering jewels encircling her tapering fingers, which were
+gracefully entwining the hair of her companion seated by her side.
+Perhaps my preference for one was induced by the approving glances from
+her “large, dark, eloquent eyes.” She had smoothed for me the cushion,
+and flattered me with her looks, and I being in a frame of mind
+rather susceptible to kind attentions, my vanity was very naturally
+somewhat excited. They were both attired in the simplest manner. A
+white chemise, and skirt girded around the waist with a yellow silk
+sash comprised the whole arrangement. Their small beautiful feet were
+not cramped in stockings or shoes, or their ankles hid with a skirt
+too long. Their bosoms were not compressed in stays, or mantled in
+cashmeres, but heaved freely under the healthful influences of the
+genial sun and balmy air of the sunny south. I approached the mat where
+they were sitting, and took the hand of a little girl, and touching
+the shoulders of my favorite, I pointed to the child and asked if it
+was hers. She shook her head, and looked intelligibly towards her
+companion. I then took up the child in my arms and pointed to the
+“States,” as if I would take it home with me. They both snatched the
+child with great fondness, exclaiming “no, no, no,” to the infinite
+amusement of the men who came around me, making every demonstration of
+gratification and good will. At this interesting crisis the steamboat
+bell summoned me, and by running at full speed I arrived just in time,
+while one of the party less fortunate was left behind. He was greatly
+frightened, and plead earnestly, but his supplications were in vain.
+The captain said he could walk across the country, and get to Matamoros
+before we would. I would almost willingly have exchanged situations
+with him.
+
+We at length arrived at Matamoros, having been in sight of the town for
+five hours before we landed. The river is so crooked that there are
+landings on different sides of the city. We registered our names at the
+Exchange Hotel. This is a two story brick building with a flat roof,
+and an open court in the centre. It was formerly the Mexican custom
+house. Our sleeping room was the one through which two cannon balls had
+passed, during the bombardment from Fort Brown. The next morning we
+rose early and visited the market. The building is about twenty-five
+feet high, supported by columns and arches. The whole interior is
+divided into stalls, where can be bought meats of all kinds. The
+outside is reserved for vegetables and varieties, sold from mats spread
+upon the ground, by women with half-clothed figures, and disheveled
+hair, presenting an appearance uncouth and repulsive. Bread, milk, pies
+and hot coffee are sold in large quantities.
+
+I was surprised to find so many Mexicans still residing in the city.
+And was still more surprised to find the alcalde and police officers
+performing their respective duties, and all the municipal laws enforced
+as formerly. The alcalde, however, receives instruction from Colonel
+Clark.
+
+The dress most common for the women I have already described; I will,
+however, mention that they never wear bonnets, but throw a scarf
+ingeniously over the head and shoulders. The young men dress with
+much taste and neatness, and most of them possess fine figures. They
+generally appear in white, and instead of suspenders they wear around
+the waist sashes of various colors. The bottoms of their pants are of
+enormous width. Some, more showy than the rest, wear blue over the
+white, with the outer seam left open to the hips, and buttons down
+the side. The hat, which is made of straw or wool, and often covered
+with oil-cloth, has its peculiarities. On each side and about three
+inches from the top, are fixed little silver knobs in oval plates.
+The bands are often made of gold or silver. My thoughts and feelings
+while passing through the streets, were in keeping with the novelty of
+my situation. Suddenly thrown into a foreign city, where everything
+presented an appearance so dissimilar to anything I had ever seen, I
+was constantly surprised into expressions of wonder and curiosity. The
+side walks are so narrow but two persons can walk abreast. The houses
+on the principal streets are built generally of brick, with flat roofs,
+brick floors in the first story, and open court yards in the centre.
+Those in the less frequented parts of the city, are made of slabs and
+stakes driven into the ground, the intervals filled with mud and straw,
+and thatched with palmito.
+
+One of the most distinguishing characteristics of this people is their
+insatiate thirst for gaming. It amounts almost to monomania. Play
+seems to be the sole occupation of a large portion in this place.
+Crowds of both sexes may be seen at almost any time in the streets,
+and on the banks of the river, betting on their universally favorite
+game “monte.” The hotels, restaurants and coffee-houses are infested
+with gamblers from all nations. Those boarding at the Exchange follow
+their respective games, with all the dignity that characterizes
+the professor of law or medicine. Many of them are very showy in
+their appearance, courteous in their manner, and agreeable in their
+intercourse. To the volunteers, they are attentive and obliging, always
+ready to give them any information or advice, and ever ready to rid
+them of any extra dimes they may wish to hazard upon their games. It
+would doubtless surprise any of our good merchants at home, to witness
+the unceremonious rancheros entering their stores, leading in their
+favorite mustangs after them,--a general practice here. But it is time
+I should close this prosy description. It would be an endless task,
+should I attempt to relate all I saw and heard in the church, in the
+hospitals, and especially the never-to-be-forgotten incidents on the
+lower plaza, and at the fandango.
+
+Just before we unexpectedly embarked for the camp, our attention
+was attracted by music, and a crowd, following a company of rope
+dancers. We were informed that they came in every Sunday afternoon,
+and performed at three o’clock. The party consisted of three men and
+one woman on horseback. They were gaudily dressed, very much after
+the manner of our circus riders, but, if possible, more grotesque
+and showy. The music consisted of a clarinet, a drum and a kind of
+ophicleide painted green and red. The pompous cavalcade, supported by
+the motley crew of men, women and children, making every gesticulation
+of delight, presented truly a rich and ludicrous scene. About this
+time the steamer Corvette rounded to with a load of sick volunteers
+from Camargo, for the general hospital, and as we expected to leave
+immediately, we hastened on board.
+
+I never in my life regretted so much to leave any place after so short
+an acquaintance. I was just becoming familiar with the city, and the
+next night promised much. That by the way. I went on board without a
+murmur, and was soon on my way to the camp.
+
+
+_20th._--This day has opened upon me fraught with new cares and
+responsibilities. This is my twenty-first birth-day. My country can
+now fairly claim my influence in sustaining her laws, and supporting
+her institutions. When an American youth enters upon the stage of
+political life, he should endeavor fully to comprehend the genius
+of its government, and the high and glorious privileges it imparts.
+His freedom of thought and right of suffrage place him far above, in
+point of privilege, any other people, and secure to him blessings not
+enjoyed by any other nation under heaven. In view of the inestimable
+rights he enjoys, how great are his obligations! How carefully should
+he endeavor to avoid party influences; and remain firm in noble
+principles, in spite of the deluding sophistry of heartless demagogues.
+As he approaches the ballot-box, that sacred guarantee of liberty
+when unabused, let him pause and reflect whether he is acting from
+impulse or the dictates of reason. I am now twenty-one! We all look
+forward with interest to the period! We expect, and we anticipate,
+and how often, during the flow of buoyant thought, we map out the way
+to future greatness. My feelings are so fluctuating, my anticipations
+so frequently unrealized, that no result can be very unexpected. From
+this candid and free expression of my feelings, I do not wish to convey
+the idea that I am disposed to find fault with the world, or with
+the organization of society, but only to indicate more clearly the
+constitution of my mind with native sources of unhappiness.
+
+In looking back over a few years in which I have mingled some in
+society, I cannot say I have derived no pleasures from the past, that
+I have seen no bright spots, or enjoyed no valued objects. It would be
+base ingratitude were I to disclaim participation in some delightful
+scenes where sympathy and affection warmed kindred hearts. Was this
+more than balanced by painful reaction?
+
+The frequent brooding upon saddening subjects, pride, and, I may add,
+a sprinkling of patriotism, will, to some extent, account for this day
+finding me a soldier upon the borders of Mexico. It is time I should
+leave this subject. I drop it at once to recount some of the events of
+the day.
+
+Yesterday we were visited by a strong north-wester, so common to the
+season in this latitude. It blew so hard that the water from the Gulf
+was driven up into the sloughs, causing a swelling from the little salt
+lakes of which I have before spoken; but to-day we have a clear sky and
+a calm breeze. After breakfast this morning, I went to the sutlers,
+and bought a large box of sardines and some claret, as a little treat
+for the mess. Our captain and lieutenants were invited to partake, and
+toasting my birth-day, they all wished me success. I spent the night
+until tattoo, in writing these random reflections, and in thinking what
+a contrast the associations of to-day will present, when compared with
+three preceding anniversaries of my birth-day.
+
+
+_October 5th._--For the last two weeks nothing has transpired worthy
+of note. The time drags heavily when waiting for orders.--Col. Lane’s
+regiment has moved up to Palo Alto, seven miles from Matamoros. General
+Lane still drills our regiment, as our colonels are both sick, and one
+gone home. Yesterday I wrote a letter, and will copy it in part.
+
+“* * * * * It is Sunday evening, and just about the time you are
+returning from church in the afternoon. I fancy I can see the friends
+convened in your front room. I often think of your parlor. At this time
+what a different scene our camp presents from that of the drawing-room!
+Instead of handling gloves, fans, or parasols, our boys are engaged
+in brightening their arms and equipments, to surprise the regiment
+this evening on dress parade. I am sitting in tent No. 1, and writing
+this epistle upon a box that some of the boys have picked up at the
+commissary’s. While speaking of the mess I will pronounce a short
+eulogium. It is the only one, with perhaps one exception, that has
+undergone no changes since we left home. We have had no difficulties,
+but have lived together in uninterrupted harmony. We now number six,
+one of our mess having been discharged. What a place this for the
+study of human nature! Points of character that at home lie concealed
+from every one, are here developing every day, and consequently much
+change of opinion in relation to character. Even one’s own self changes
+views respecting one’s self, in regard to the natural disposition,
+motives, and impulses of action. The more I see of a soldier’s life,
+the stronger is my conviction that there are worse evils to be feared
+than those of the battle field. A retrograde in morals or a total loss
+of moral principle, is incalculably worse. Take young men, who, from
+their position in society at home, are excluded from the haunts of
+strong temptations and the greater vices, and for the most part you
+will find them moral from habit, rather than fixed principles, and a
+clear discrimination between right and wrong. O! how many such will be
+wrecked and ruined in this campaign!
+
+“I am daily realizing the force of that old adage, ‘we know not what
+we can do until we try.’ If any one had told me only a few months
+ago, that I could with impunity, sleep upon the ground in the open
+air, and rise at reveille in the morning, and drill two hours before
+breakfast, I should certainly have been at a loss to know of what
+kind of materials he thought I was made. Yet these I do almost every
+day, and so accustomed am I to a soldier’s couch, I seldom think of a
+softer bed. Then, there is poetry in reposing under the direct gaze of
+the moon and stars, which, like guardian angels, superintend, while
+the watchful sentinel guards around. _Apropos_: we do have some of
+the finest nights you ever witnessed. The moonlight is so clear and
+bright, we easily see to read by it. And then what a range for the
+imagination. How plainly do happy meetings, delightful visions of love
+and sympathy, rise before us. Under such pleasing emotions we sink into
+the most refreshing slumbers, which are only disturbed by the _musical
+mosquitoes_ or _industrious ants_. I close this epistle. The drum calls
+to parade.”
+
+
+_31st._--The only apology I offer for such a distance between dates,
+is the absence of anything worthy of relation. I have occupied a part
+of the interim in writing letters, and as they contain the little of
+incident transpiring, I will copy another in part.
+
+“As a good opportunity presents itself to send you a few lines, I will
+avail myself of it, although it is very disagreeable to write with a
+strong northerly sweeping over, blowing sand and dirt in the eyes, and
+covering the paper. I received your last letter, and I assure you it
+gave me great pleasure to hear you were well, and partially resigned
+to our separation. I waited for it so long, I had become used to
+disappointment, and thought myself partially hardened and indifferent,
+but it has awakened anew all my anxieties. How lonely and melancholy
+it makes me feel to see others around reading epistles from their
+friends, while I am apparently forgotten and uncared for. Indeed, these
+reflections are sources of much unhappiness. Do not think from these
+expressions, that our condition is worse than previously. It is greatly
+improved since the many unfavorable accounts you have heard from us.
+There is not now one among us confined to his tent, and everything
+goes on as well as a soldier could expect. My brothers can form no
+idea of the encouragement and gratification they afforded me by their
+assurances of interest and regard. I can conceive of no incentive to
+action greater than to gain their affection and approbation. Assure
+them of my kind remembrances. I feel this separation will only tend to
+bind us closer together, if we are ever permitted to meet again.
+
+“As the armistice has not yet expired, I cannot with certainty inform
+you of our future movements. If the war continues, we expect to move
+towards Tampico, where we expect active service, a glorious end or a
+wreath of laurels. General Patterson deems it no mark of disrespect to
+the Indiana troops, that they have not been pushed forward, nor will it
+affect our reputation. Our hospital has recently been greatly enlarged
+and improved. Our stock of medicines is very low, but fortunately the
+camp was never in a healthier condition. Cease your care for me and
+bestow your sympathy upon a needier object. The sick soldier with a
+hard bed and burning fever, has a stronger claim upon you. Forget him
+not.
+
+“I commenced this letter intending to send it immediately, but shall
+not be able to do so for a week or two.”
+
+
+_10th._--I transcribe here a fragment of a letter to my sister
+“----. I do think you have used me shamefully, by not noticing one
+of my letters, and I have a great mind to fill this whole sheet with
+scoldings. I left home as you know, with but few associates. I have no
+friends of my own age with you, that I have any claims upon, or from
+whom I have a right to expect any favors. But from you I expected much,
+or at least I felt assured you would not forget me. How much I have
+been disappointed, you yourself can judge. Your inattention becomes
+more unpardonable, when I think of the many subjects of interest you
+have to write about. If you would just give a list of the friends
+who have called upon you, within the last week, or fill a page with
+the innocent sayings of the little ones, it would be hailed by me as
+a God-send in this dreary place. I am beginning to feel quite like
+an old soldier, and ‘forward, march, guide left,’ and other phrases
+of the drill are becoming as familiar as if I had spent years in the
+service. We have had quite an excitement in relation to moving, for the
+last two weeks. General Lane has received orders to hold this regiment
+ready to march at an hour’s notice. Ever since he has drilled it twice
+a day. The Tampico fever and rage for Monterey have abated, but still
+the general keeps up his two drills a day. The paymaster was here last
+week, and paid off all save three companies,--ours one of them. The
+money gave out. The health of the company is better than ever, and we
+do have some of the greatest jollifications you ever heard of. We get
+a couple of violins, and do up dancing to their music _à la Mexicana_.
+You would deem it a rich treat to hear the promptings, and attempts at
+Spanish, which some of the boys have picked up in the neighborhood,
+at the various fandangos. We sometimes have half the regiment about
+our quarters. The captain’s marque, like his shop door at home, is the
+emporium of anecdote and humor.
+
+
+“_15th._--Lieutenant Cayce has just arrived from among you, and has
+enriched us all. How shall I express my gratitude, for the kind favors
+you have shown me? The shirts from my dear mother came just in time.
+And although the expression of Falstaff,--‘I have but a shirt and half
+to all my company; and the half shirt is two napkins tacked together,’
+was not true of us generally, yet I assure you my under ‘tunic’
+answered mighty well to the half shirt. Your letter, and those of other
+friends are thankfully received. This has been a happy day to us all,
+notwithstanding the north-wester. I now take a hasty leave. The bearer
+waits for this.”
+
+
+_21st._--For the last two days we have all been busily engaged in
+preparing for, and in celebrating the fourth anniversary of the
+Spencer Greys, which came off yesterday in fine style. Our arms and
+equipments were all polished and whitened, in the best manner our
+limited conveniences would allow. Our fatigue dresses were not so showy
+as our handsome uniforms at home, yet we made an imposing appearance,
+and attracted much attention, while performing some maneuvers of the
+fancy drill, upon our parade ground. One of the paymasters said it was
+the finest display he had seen on the Rio Grande. I am told that our
+general, in a burst of admiration, said, “I would rather command a
+regiment of such boys than be the president.” In fact we did ourselves
+great credit both in the field, and target firing. Above all the rest
+our beautiful flag was universally admired.
+
+It was a fine day, and everything appeared to good advantage. The
+sun once more shone forth with all his refulgence, which contrasted
+happily with the cold and dreary weather of the three or four previous
+days, during which a strong norther was sweeping over us, blowing down
+tents and covering everything with sand. But our birth-day anniversary
+was ushered in with an unclouded sky, and a complete change in the
+whole face of nature. The whole day proved an auspicious one, as the
+paymaster arrived and forked over our seven dollars a month. At night
+music and dancing were the order of exercises until tattoo, after
+which I took the arm of a messmate and strolled out upon the bank of
+the river, where we called up to our minds images of the past, spoke
+of home, and drew many interesting contrasts. The pleasures of memory,
+how varied they are! How inestimable are the faculties by which we
+can enjoy again, former pleasures, and happy unions of the past! I
+sometimes think that pleasures retrospective are purer than those of
+anticipation or realization. “How grand is the power of thought! My
+God! how great it is.” These reflections and our mutual interchanges
+of sentiment were at length interrupted by the sound of a guitar,
+which emanated from the sutler’s tent, to which we at once proceeded,
+and found quite a number of officers, listening to the laudable
+performances of our musical trio. We remained by invitation, until the
+party broke up, then returned to our quarters.
+
+
+“_23d._--Dear M ---- I have just returned from a visit to Point Isabel
+after letters. Most of the boys were paid for their pains, except
+myself. It is an anomaly to me that others around me are continually
+receiving epistles from their friends, while I am generally doomed to
+disappointment. The party consisted of five. After walking sixteen
+miles, we arrived at Brazos Santiago, where we were struck with
+the change everything presented. It appeared more like the levee at
+New Orleans, than the desert island on which we first encamped. The
+government has about one hundred and fifty teamsters and laborers
+employed, and whole acres are covered with baggage wagons and army
+stores. The harbor is filled with hundreds of vessels. Having
+regaled ourselves with a dish of oysters and clams, we took a boat
+and sailed to the point. We registered our names at the “Palo Alto
+House,”--repaired to the post office, and performed various errands
+for the boys. The next morning we witnessed the thrilling spectacle of
+the disinterment of the remains of Major Ringgold, for the Baltimore
+committee. The coffin was escorted to the quartermaster’s depot, by a
+company of regulars. Others formed a procession in the rear, and all
+marched to the tune of “Adeste Fideles,” accompanied by the roaring of
+one eighteen pounder. Having arrived at the destined place, the body
+was removed to a leaden coffin. It was so decayed we could form no
+idea of its form or features. After dinner we returned to the Brazos,
+and put up at the Greenwood Hotel. During the night there came up a
+tremendous storm, which swept over the island driving everything before
+it. It was quite amusing to see the barrels and hats, bounding before
+the gale. Even part of an old steamboat chimney was started, and rolled
+before the wind, faster than a horse could gallop, and was thus driven
+as far as the eye could see on the other side into the gulf. A bet was
+made upon the comparative speed of the barrel, hat and chimney--the
+hat won. Having finished our suppers, we repaired to the theatre. The
+Young Widow and Irish Tutor, composed the exercises of the evening,
+interspersed with songs and dances. Two or three of the characters
+were tolerably well sustained, and one of the mess remarked, ‘It is
+as good a theatre as I want to go to.’ The storm continued during the
+performances with redoubled fury, and the tide coming up between us and
+our lodgings, we were forced to wade it against wind and sand, which
+lashed our faces unmercifully. The next morning we started for the
+camp, stopping by the way to pick up shells, which I will send you the
+first opportunity. The Tampico fever rages higher than ever, and our
+general is of the impression, we will not be here six days hence. * *
+* * * Messes No. 1 and 13 have this day united into one. We now think
+we are the _greatest mess alive_. Every one possesses some peculiarity
+of taste and disposition, that affords fun for the rest. Every meal is
+attended with the life and jollity of a public dinner.” * * * *
+
+
+“_22d._--Dear Mother. The letter and clothing you sent me were
+gratefully received. You can form some idea of my health, when I tell
+you the shirts would not button at the neck by two inches, nor at
+the wrist without an effort. In the pants the boys say I look like a
+‘stuffed paddy.’ Nevertheless they all answer the purpose.
+
+This has been quite an eventful day. In consideration of having no
+extra dinner on the day of our celebration, and this being the birthday
+of two of our boys, the combined efforts of messes 1 and 13, were
+brought to bear upon the preparation of a sumptuous dinner for the
+company. Guests were invited, among whom were many officers of the
+brigade and regiment. Everything was got up in a style truly rich
+and rare. Cooking was done in a manner unsurpassable. Roast beef,
+fish, potatoes, peach pies and pound cake without eggs, constituted
+the principal dishes. Cigars and claret, were the accompaniments.
+Managers, cooks and waiters, all performed in their happiest way, in
+their appropriate departments, and our guests congratulated us upon the
+entire success of our efforts.” * * *
+
+
+_December 5th._--We all thought yesterday, that last night would close
+our stay in camp Belknap, as we had received orders to embark on the
+first boat, for Camargo, and thence to Monterey. The joyous excitement
+this news diffused among us, surpasses any description I can give.
+In our company the whole night was spent in music and dancing. Our
+musicians acquitted themselves ably. Our captain and others joined in
+our merriment. I was on duty as corporal of the police, and as the
+officer of the day only ordered me to suppress all riots, and see that
+the lights were put out at tattoo, I did not think dancing included, so
+I joined in the festivities with an ardor that has rendered me to-day
+almost unable to walk, and my head aches as if it would split. “Those
+who dance must pay the fiddler.” We have just removed to the river,
+where we will await conveyance.
+
+
+_7th._--Night before last seven companies of the regiment embarked for
+Camargo, leaving the two rifle companies and Spencer Greys for the
+next boat. We are detained in consequence of the captain refusing to
+go on the steamer Enterprise, as it is too small to be safe for three
+companies. So the Lanesville Legion took our place, it being a smaller
+company. We expected to start next morning, but have been disappointed.
+
+Last night we were thrown into great excitement by the alarm of an
+attack from the enemy. Just before dark the general and others thought
+they heard sounds of a bugle, in the chaparel on the Mexican side of
+the river, supposing them to proceed from the enemy. In consideration
+of our exposed position,--there being only one hundred and fifty of
+us, with but little ammunition, it was thought prudent to station a
+picket around the camp. The three companies were ordered out, and four
+cartridges apiece distributed, then marched up to be reviewed by the
+general. He told us what he had heard, and other causes which made
+our position a dangerous one. He urged the necessity of watchfulness,
+saying that we would never have so good an opportunity of showing
+what we were made of. Many other things he said, calculated to excite
+our attention, then dismissed us charging us to lay near our arms,
+and not be taken by surprise. We returned to our tents, and arranged
+everything, and lying as directed upon our arms, we made up our minds
+to do our best, if we were disturbed before morning. About two hours
+after midnight, we were suddenly aroused by a discharge of musketry
+from our outpost, and the cry, “to arms, to arms.” In ten minutes the
+whole three companies were at the general’s quarters.
+
+I think I know now the feeling one experiences while going into
+battle. My emotions this night I never shall forget. When first
+aroused I seized my musket and equipments, and rushed from the tent in
+the greatest excitement. The firing from the pickets, the universal
+rushing, hurry and confusion, the impatient cries of, “make haste, men;
+fall in,” etc., made me so nervous that doubtless for a few minutes, my
+words were unintelligible. After a short period of agitation everything
+was ready. As we were marching out to take our position, it seemed
+that this would be a wonderful night in my earthly career, and my fate
+was to be decided by my success in the coming conflict. I said within,
+be calm and do your duty. I aroused all my energy and decision of
+character. I then moved with an unwavering step, and would have given
+all my possessions to come in contact with the foe. Our men never
+marched better, dressing to the guide as it was shifted, with as much
+calmness as when on ordinary drill.
+
+Having formed our line in front of a dense chaparel, a party was sent
+out to reconnoitre. Here I had a presentiment that the enemy would not
+meet us; that this was not the night for our military laurels to be
+secured. Had we met the enemy in the field of battle; had we gained
+victory amidst adverse circumstances, how gratifying to ambitious
+desire that friends should read eloquent descriptions of our deeds of
+chivalry. Great was our anxiety while waiting for the return of the
+detachment.
+
+At length the party came; they reported to the general; the general
+addressed us in complimentary terms, expressing his unlimited
+confidence in our fidelity and courage. He dismissed us saying our only
+enemies here, the wolves, had retired to the chaparel. We returned to
+our tents crest-fallen, very few having a disposition to joke or laugh
+over this evening’s adventure.
+
+
+_10th._--At last we have departed from camp Belknap. The place that a
+few months ago contained 8000 souls, is now without an inhabitant. I
+left this beautiful spot with mingled emotions of pain and pleasure.
+Here we had light duties, we had opportunities to hear from home, and
+other sources of comfort. On these accounts I confess I left camp
+Belknap with regret. But on the other hand it could be no longer said,
+they still remain away from active duties and scenes of glory. I
+thought of the upper camp and wonders in other lands. On these accounts
+I left our old encampment with feelings of delight.
+
+We transported ourselves, our camps and equipments to the river bank;
+but how heavily many an hour passed away before the arrival of a
+steamboat. We several times laid in provisions and cooked them for the
+trip, and several times we eat up our provisions before we started on
+our trip. It is said man is a poor economist in domestic matters, and
+indeed our conduct on this occasion seemed to prove it.
+
+Well, at last we are on board the steamboat Whiteville, the same upon
+which many of us went some time ago to Matamoros. Before its arrival
+the three captains drew lots for choice of quarters. Our captain was
+successful, and he selected the boiler deck. But the captain of the
+steamboat refused to let us occupy the place specified. His plea was
+“’Tis unsafe, the boat rolls so.” Accordingly all three companies were
+stowed away amidst the filth, noise and confusion of the engine room.
+O! ’tis revolting to the feelings of one accustomed to the decency
+and luxuries of civilized life, to be herded together like cattle in
+some dirty little enclosure, and there treated with the hauteur and
+chilling neglect of the most abject slaves. How the hot blood mantles
+my cheek when I look at our situation. “The boat rolls so!” A fine
+excuse truly! Other boats of no greater strength carry troops upon
+the boiler deck; yet _this_ hireling says, _we_ “have no more right
+there than his _firemen_.” Behold the sacrifices of the soldier! He
+forfeits his self-respect, his sense of right and wrong, his liberty of
+speech, his freedom of action, and his rank in society. All this for
+the public good, and what is his reward? Why, _one_ ration a day, and
+_seven_ dollars a month, the cold indifference of the hireling citizen,
+and of the avaricious or ambitious officer, holding in his hand the
+regulations of the Army. How many such officers when at home, in
+newspaper articles or public orations, give vent to fires of eloquence
+and of patriotism. They would shed the _last_ drop of blood for their
+_dear_ country! but they seem mighty unwilling to shed the _first_
+drop, or why don’t they shed a little reflection for the comfort of the
+poor soldier, or why don’t they shed out some of their big salaries for
+the advantage of those who have left firesides and friends for their
+_dear_ country?
+
+So far as this government boat was concerned, it had this regulation:
+“No _private_ shall enter the cabin, or be permitted to sit at the
+table,” the money or intrinsic worth of the soldier notwithstanding.
+Well, I have this consolation, that I have endeavored to show proper
+respect without _truckling_ to office or power. In my intercourse
+and associations with officers, I have kept up appearances without
+blushing, at the inferiority of my living to theirs. As to the monthly
+pay of the volunteer, one of my messmates well expressed himself. “I
+hope Congress may not increase our pay to ten dollars, for I never can
+be paid with money for the wounds my pride has received.”
+
+By the above remarks let it be understood that I am not finding
+fault with the duties of the soldier. I am willing, God knows I am
+willing, to do everything in my line of duty. Nor am I opposing rigid
+discipline, for I hold that subordination is the life and safeguard
+of the army. Yet the soldier has rights that should be protected, and
+feelings that should be respected.
+
+
+_11th._--We arrived at Matamoros this morning, before day. At sunrise,
+several of us went up to the city, but saw nothing worthy of notice. On
+my return, I stopped at the camp of the 4th Regt. Illinois Volunteers.
+There I heard with surprise, that my old friend Sergt. R. C. had been
+discharged on account of consumption. His brother sergeant of the same
+company had died just before at Camargo.
+
+About noon we shoved out and continued our serpentine windings.
+Soon after starting several of us took seats upon the boiler deck,
+determining not to be removed, when the captain approached and tapping
+me on the shoulder, beckoned me to one side. He pointed below to a
+wretched specimen of humanity, and remarked with energy, “Look there,
+sir! look there! Would you have me take such men as that into my
+cabin?” I replied, “must we all suffer from the imprudence of one man?”
+“That’s it! That’s it!” said he, laying his hand on my shoulder. “How
+can I distinguish? A whole regiment may suffer from the bad conduct
+of five or six men, and one may injure the reputation of a company.”
+“But,” said I, “if you had complied with the arrangements made, you
+would have run no such risks, nor brought down the indignation of us
+all. The Spencer Greys, sir, are gentlemen, and know how to behave
+themselves; but you say we have no more right here than your firemen.
+I tell you, sir, that if because we are volunteers, we have forfeited
+in your estimation all title to respectability, it argues that you have
+but little sympathy for us or the cause in which we are engaged.” I was
+much surprised to see the calmness with which he took this harangue,
+for it was delivered with much excitement. He at once attempted to
+defend himself, denying some things and explaining others, but his
+efforts were unavailing, for the narrowness of soul was still apparent.
+Here others joined us and took part in the conversation, when I soon
+after made excuse and left.
+
+About sundown we laid up for the night just above St. Marie. This
+little town is composed of several thatched huts, a neat little white
+brick house, and a large cotton press. I thought this could not be the
+enterprise of the natives, and sure enough, we found that the buildings
+were owned by a gentleman from New Orleans. I inquired his name, but
+have forgotten it. He sends his cotton into the interior to market.
+
+What fortunes might be made here in the cultivation of cotton. As we
+ascend the river whole acres of cotton may be seen uncultivated and
+going to waste. Occasionally a few of the indolent natives may be seen
+picking a little for their own use, and leaving the rest to rot upon
+the ground.
+
+The country now begins to assume a more favorable appearance. The river
+banks are higher, and the lands back not so subject to inundation.
+I have not seen any hills, or even more gentle undulations since we
+started.
+
+
+_13th._--Yesterday and to-day the time has glided away more pleasantly
+than usual. Our officers called a meeting, and decided that we _should_
+occupy the boiler deck, and at night have as much of the social hall
+and cabin floor as is necessary to lie down.
+
+During the afternoon, in conversation with the captain of the boat, he
+spoke at length of the Mexican character, and gave me much information
+respecting the natural resources of the country. The conversation
+turned upon the war and its effects. Major Ringgold and Colonel Watson
+were spoken of. The captain appeared to have been acquainted with them
+both.
+
+At night we laid up as usual, when nine of us set out in search of a
+“fandango,” which we heard of in the neighborhood. After wandering
+an hour we found that we had taken a wrong direction, and commenced
+retracing our steps, when we were alarmed by the most unearthly yells
+apparently approaching us. The sounds proceeded from a party of young
+men mounted upon “mustangs,” on their way to the fandango. We stopped
+them and conversed some time by signs, and made known our wishes to
+accompany them. They now started ahead signifying to us to follow
+after, which we did, imitating their yell of “uh! ah! whoop!” and
+extravagant gesticulations. Soon they galloped off on their ponies
+beyond our hearing.
+
+Notwithstanding the discouragement, we resolved to proceed. The night
+was dark, and the chaparel was gloomy through which was our pathway.
+At a rancho we procured a guide, who moved reluctantly till we gave
+him a dollar. This made him bound ahead yelling like a madman. Now in
+the broad road, now in a circuitous path, through weeds and briars we
+followed on and on, until the guide paused and appeared bewildered.
+Had it not been for our resolution to attain our object, we should
+have turned back. The Mexican gaining confidence, so did we and on we
+went. Soon we came to another rancho, where we were beset by myriads
+of dogs, but like their owners they soon retreated before our charge.
+At length we arrived at our destination, where we were received with
+great courtesy by the men, but with fear and trembling by the women.
+They had evidently seen but little of the Americans, and doubtless our
+being soldiers increased their timidity. It was some time before they
+ventured to look upon our countenances, or enter into the dance with us
+without considerable reluctance. But our kindness and liberality soon
+gained their confidence, for after each set we escorted our partners to
+the table, where were sold cakes, hot coffee and cigarritas. Everything
+was in the open air. A large circle was formed with benches, and the
+dancing went on in the centre. The whole was dimly lighted by lanterns
+of oiled paper.
+
+Both sexes were dressed principally in white. Uncleanness in dress, is
+not one of the faults of the Mexicans, when we take in consideration
+their mode of washing. Without tub, without washboard, they rub their
+clothes on a smooth board, laid horizontally upon the ground beside
+the stream. Occasionally they take up water in the hand and splash
+the garment. Much might be said about the events of this night, but
+this book is filling up too fast already. I know not when I shall get
+another. Before we started we took leave by shaking hands with them
+all. It was quite interesting employment to pass down a line of thirty
+girls, squeezing their little hands. They certainly can say “Adios
+Señor,” with a smile and “naiveté” almost irresistible. We arrived at
+the boat precisely at twelve o’clock. To my surprise I found it was my
+night for guard, but it was not too late to perform my duties.
+
+
+_14th._--Yesterday we passed Reynosa, but the boat not landing we saw
+very little of the place.
+
+This morning we got aground, where we were until evening. The Corvette,
+coming down, generously stopped and pulled us off, after breaking three
+large cables.
+
+
+_18th._--Well, here we are at last, opposite Camargo on the banks of
+the San Juan. Through great patience and tribulation, we have at length
+encamped on the most disagreeable spot that might fall to the lot of a
+soldier. The sand ankle deep and kept in continual motion by the wind
+and constant traveling. It reminds one of the simoom on the desert of
+Sahara. Twice to-day I went to Camargo. First as bearer of an order for
+new canteens and haversacks; and secondly, for wild mules to be broken
+for baggage wagons. We only succeeded in getting five, but must draw
+the rest in the morning.
+
+Before I returned to the camp, I attended the funeral of an old Mexican
+lady, which to an American was a great curiosity. The procession
+followed the priest to the house of the deceased. He was attended by
+three little boys with long cylindrical poles of brass. The one in the
+centre bearing the representation of our Saviour’s crucifixion; the
+other two bore long wax candles. They were dressed in long frocks of
+red flannel, and something like white waistcoats, which were intended,
+perhaps, to represent wings. On the sides of the priest were two other
+boys, with a silver censer and a kind of pot with water and sprinkler.
+The shoulders of the priest were covered with a velvet mantle, richly
+ornamented with silver. Each one in the procession carried a long
+candle with a black ribbon in the middle. After remaining half an hour
+in the house, they proceeded with the corpse to the church, accompanied
+with singing and music from the flute and violin. The lid of the coffin
+was carried at one side, leaving the body exposed all the way. On the
+black covering of the lid, was a cross formed with white tape.
+
+In the church the coffin was placed upon a table covered with black
+velvet trimmed with silver lace, and a large silver candlestick at each
+corner. Immediately in front of this was another table decorated in a
+similar manner with lace, and having candlesticks. On this were skulls
+and bones lying. The room was handsomely furnished with images of
+Christ, the Virgin, and many of the saints. After lighting the candles
+they began chanting the service, accompanied by the flute and violin,
+which composed the exercises, and lasted more than an hour. The music
+ceased only while the priest sprinkled the corpse and moved over it the
+incense. They repaired at length to the grave-yard, still chanting and
+playing, while the chimes tolled their deep melancholy tones. At the
+grave what a sight to behold! The ground was strewed with skull bones
+and partly decayed remains of humanity. Every new grave they dig they
+disinter a body, though it is not necessary, to make room for another
+coffin.
+
+After a short ceremony the priest retired, followed by the boys. The
+coffin was filled with dirt, each one putting in some, and the lid was
+then nailed on and lowered into the shallow grave. When covered over,
+the soil was beat down with a large stone, and left level with the
+surface.
+
+As we came back we met another funeral escort, but unlike the first.
+The body was uncoffined, unshrouded, and unattended by the pomp of
+ceremony, or the lamentation of friends. The dead man was guilty of
+poverty. But the _last_ may be _first_.
+
+Having returned to our camp we all entered upon the culinary
+preparation of four days’ provisions. To-morrow we shall, if ready,
+start for Monterey. If ready, I said; the mules must be shod, and
+broken in time for the harness. The right wing may leave us, which we
+all hope will not be the case.
+
+The reported deaths to-day of Mexicans in Camargo, was thirteen,
+mostly from measles. No wonder this disease is so fatal with Mexican
+treatment. When the malady is fairly broken out, they apply cold water
+and drive it in, and the consequence is, the patient is driven into
+the eternal world. I should like to speak of many more things which I
+have seen to-day, but the lateness of the hour, and my weariness will
+prevent it. I am now afflicted with the first cold since I left home.
+Two items more shall be mentioned. Another was received this evening
+into the mess; and it is said the needle-eyed soul of the Whiteville
+has been discharged from the captaincy for dissipation, and inattention
+to duty.
+
+
+_19th._--Pursuant to arrangement, we set out to-day for Monterey. We
+were awakened before daylight, but we did not start before noon. Many
+of us have been in Camargo to-day, to obtain five more mules, and
+exchange flour for bread. Our haversacks are stored with four days’
+provisions. Here is a list of eatables; 1st, bread; 2d, boiled pickled
+pork; 3d, coffee; 4th, salt. Soon we shall realize the fatigues and
+trials of a wearisome march. For my future perusal I shall give a
+minute description of the sufferings and incidents of our tedious
+journey.
+
+The road to-day was ankle deep in dust all the way, which nearly
+suffocated us. It arose so thick at times, that we could not see the
+company in front. We, however, kept up our spirits to the highest
+pitch. Bursts of merriment followed the glances and expressions of all.
+We were truly an antiquated looking group, with our locks and hair
+covered faces whitened with the dust.
+
+About sundown we arrived at our first encampment, having traveled nine
+miles. The 1st regiment of Indiana had started in the morning, and had
+already pitched their tents. The 3d regiment had gone ahead. I feel
+very tired with sore feet and aching bones. A cup of coffee has helped
+me somewhat.
+
+
+_20th._--This morning I arose greatly refreshed, and ready to march
+twenty miles, the reported distance to Mier; but before night I felt
+very differently, and every step was exceedingly painful. My feet were
+badly blistered, and every sudden movement of my arms, was like the
+piercing of sharp instruments. These acute pains were occasioned by
+the straps and weight of my knapsack, which contained all I possessed.
+Fancy to yourself the burden I was bound to support. The cartridge box
+with forty rounds of ounce ball cartridges, bayonet scabbard and belts,
+the haversack of provisions, canteen with water, musket and knapsack.
+Let the stoutest carry such loads twenty miles through dust and hot
+sunshine, and I assure you they will gladly stop for the night. The
+straps of my knapsack bound me so tight, that I could scarcely breathe.
+The pain at times was so excessive that I became bewildered, and all
+things seemed to swim around me. But pride forbade complaint and I
+jogged on; while others, apparently hardier than myself, gave out, and
+had their burdens lightened. It was dark when we pitched our tents in
+sight of Mier. After much seeking, sufficient wood was obtained to boil
+our coffee, and give light for the writing of these notes.
+
+
+_21st._--In the morning I felt greatly invigorated. I was quite
+disappointed in not getting a better view of Mier, a place that will
+long be remembered, in consequence of the awful tragedy which was acted
+there. Last night too much worn out to visit it, and this morning took
+unexpectedly a route that did not pass through its streets. Oh! the
+sufferings of the twenty-first. The sun shone with the power of July,
+and the dust how annoying! My nose so sore with blowing that I dare not
+touch it; and my lips so blistered that I cannot tell when they are
+closed. The heat, dust and salt pork made us so thirsty, and how we
+did suffer for want of water! So great was our thirst, that we drank
+largely of a pond covered thick with a green scum.
+
+Having trudged nineteen miles we arrived at Cannales’ Run, where
+we encamped for the night. Nearly overcome with the march, feet
+exceedingly sore, and so scalded with sweat, that they did not look
+like flesh and blood. But bathing them in cold water made them much
+better. After being seated a few minutes I was so sore and stiff,
+that it required almost a superhuman effort to move. But I kept up
+appearances, and did not acknowledge the extent of my fatigue. I had
+resolved to fulfil the prediction--“I can stand the march!” Great
+praise is bestowed upon us by the trains, saying we are the strongest
+regiment in the field.
+
+
+_22d._--What an astonishing effect is produced by a few hours’ sleep.
+Last night I stretched my aching, stiffened limbs upon the ground, and
+how refreshed this morning and ready to march twelve or fifteen miles
+to Point Aguda. My feet are becoming hardened, but after stopping
+it is some time before I can walk without great pain; but a little
+marching prepares me for jogging on better than ever. The march of the
+twenty-second would have been much easier had we not lacked bread. Just
+think, half a baker’s loaf at breakfast for eleven men, and no more
+till we stopped at night.
+
+Here we had a pleasant camp beside a clear running brook, and near
+a beautiful cascade, constructed of stone and cement, in order to
+turn the channel through the town. How pitiable is the indolence of
+the natives. Such natural advantages are neglected. What a mill seat
+is here; yet the poor women crush their corn between a stone roller
+and slab, in a barbarous manner upon their knees. What a lack of
+enterprise! Two companies of Ohio volunteers are stationed in this
+place.
+
+
+_23d._--This is our fifth days’ march, and about one half way to
+Monterey. The 1st regiment keeps before, and discommodes us greatly by
+their train. This day I did very well. Feet getting well! Thanks to
+cold water!
+
+We pitched our tents near the old Spanish town of Ceralvo, which
+bears the impress of an antiquated fortress, and reminds one of the
+dilapidated castles we read of in romances. The houses are built of
+gray stone, with loopholes for windows. Through the centre of the town
+runs a beautiful clear stream, spanned by bridges and arches. There is
+also a large cathedral with chimes and a towering steeple. It is said
+to be 166 years old. Three companies of Ohio troops are stationed in
+this place.
+
+
+_24th._--This sixth day’s march, the easiest of all. Feet nearly well,
+and bones don’t ache so grievously. The beautiful scenery by the way
+contributed to my ease in marching.
+
+It was not yet light when we left Ceralvo. As the rising sun cast his
+radiant beams upon the mountains on the left, I think I never beheld
+anything so beautiful and sublime. The whole chain, as far as the eye
+could reach, appeared like piles of burnished silver, shaded out in
+delightful golden tinges. I gazed upon this wonderful scenery with such
+exalted enjoyment, that I forgot the toils of my journey. How thankful
+am I, that in my heart are placed such sources of happiness. How
+majestic are the works of God! And what exhibitions are these of his
+Omnipotence! At length the mists of the morning were dispelled by the
+heating rays of the sun. Then in a short time what a change! Where the
+rich magnificence was displayed upon the mountain tops, were huge piles
+of rocks reaching up to the clouds. But still was left the imposing
+grandeur of the scene.
+
+At a creek about six miles from this encampment, we met an express from
+Gen. Lane to Col. Drake of the 1st, and to the Lt. Col. of the 2d Reg.
+The former was ordered back; eight of his companies to be stationed at
+Matamoros, and two at the mouth of the Rio Grande. I was thankful that
+ours was permitted to go on. How my sympathies were aroused in favor of
+the First. Many of them received our farewell with tears streaming from
+their eyes.
+
+The night of the 24th, we were uncomfortably encamped in the
+deserted bed of a river. There was no other water within ten miles.
+On a flooring of stones, our supper consisted of coffee and hard
+crackers filled with little black bugs. This, of course, was not very
+refreshing, after a hard day’s march.
+
+There is but little soil between this and Camargo worth cultivating.
+Scarcely a tree to be seen larger than the cherry. The soil is
+generally rocky and sandy, in some places having indications of iron.
+It produces spontaneously little else than burs, briers, thorns, and
+all varieties of the cactus. The prickly pear grows in enormous piles,
+more than six feet in height. The bank of this deserted channel is
+about forty feet high, composed of large gravel cemented together.
+
+
+_Christmas._--What a contrast between my situation here to-day and that
+at home one year ago. The events of last Christmas I remember well;
+but here a year after, far away, encamped in the valley of the Sierra
+Madre, having marched all day with our flanks guarded by their stony
+peaks. I am on duty to-night, for which a fifteen miles’ march is a
+poor preparation. Everything is filled with romance. The sky unclouded,
+all bespangled with brilliant stars, and the silvery moon riding forth
+in the midst of this beautiful scenery.
+
+
+_26th._--Having traveled sixteen miles this day, we encamped two miles
+beyond Marin, on the bank of a little river. We passed through the town
+of Ramus, which is said to be owned by Cannales, the celebrated robber.
+In Marin there is a fine cathedral and plaza. The houses of this town
+are built of stone and plaster of Paris, in which the country abounds.
+Notwithstanding my being up all night previous, I went ahead of the
+advanced guard all day. I thought I could get along better at my own
+gait.
+
+
+_27th._--And now we are at the Walnut Springs; the celebrated
+battle-ground of Monterey! This has been a painful day’s march of
+twenty-five miles. In eight days and a half, have we performed our
+journey. No infantry ever performed the same distance in less time.
+Here we are, four miles from the city, at the camp of old Rough and
+Ready, who has just started with his command for Victoria.
+
+This is a beautiful spot, with towering peaks rising majestically all
+around. Here are the largest, straightest trees I have seen in the
+country, forming a beautiful shade. We were hurried on in consequence
+of an order to Col. Hadden, from General Lane, stating that we were to
+continue our march to Saltillo, as Santa Anna was reported within two
+days’ march of that place. Then, we have still a march of sixty-five
+miles before us, having passed over one hundred and fifty already.
+After carrying heavier burdens than troops of other states, it may be
+supposed we were not very sprightly; yet I feel more able to travel on
+the next day, than I did on the third day.
+
+On that evening, being wearied, and having duties to perform, I did
+not write all that I wished. Much might have been said about the
+beautiful scenery that I beheld. After a hard day’s march it was quite
+unpleasant, of course, to hunt wood, carry water, and cook half the
+night for the next day. But, in the above instance, we had but little
+to cook, our supplies having not arrived from Monterey.
+
+
+_28th._--Whilst striking our tents this morning, general orders
+arrived, granting a day’s respite, as the provisions could not be
+secured so soon. Instead of resting, quite a number set out to visit
+the city. It is truly astonishing how deceiving is the distance to the
+mountains. For three days we have been marching directly towards two
+mountain spurs, higher than their neighbors. After a day’s journey,
+they seemed no nearer than they did in the morning. The city was four
+miles off, yet beyond was a knoll that appeared no more than a hundred
+yards distant. The previous evening a number of us started for this
+prominence that we might gaze upon Monterey, but soon found out the
+deception and returned to the encampment.
+
+The more I examine and reflect about the numerous points of natural
+defence around the city, the greater my astonishment how it could
+be taken by our little army. But it is useless for me to attempt a
+description of scenes connected with the exciting action that was
+performed there. More interesting accounts than I can give have been
+published in numerous papers of our country.
+
+The first place of prominence which we visited was the cathedral. This
+surpasses all edifices of the kind I ever saw in splendor. The images
+are clothed and decorated with jewels and precious metals. Some of
+the smaller paintings are framed in solid silver. The music from the
+harp and deep toned organ is truly enchanting. We visited also the
+fortification, the bishop’s palace, and the market. The latter abounded
+in sugar cane, sweet potatoes and oranges of the most delicious flavor.
+
+Before our return I met one of our townsmen. He belonged to the
+Louisville Legion, who were stationed near Saltillo. His health was
+recovered, and by his invitation we visited his quarters, the hospital.
+There we saw other acquaintances pale and emaciated by disease. They
+grasped our hands with warmth and tearful eyes. It was a touching
+scene, and made us all thankful for the preservation of our health.
+Our friend accompanied us to our camp and showed the position of the
+troops, and manner of attack in the great battle. We were also much
+interested in inspecting an extensive tannery. It was so clean and
+convenient. There were enormous vats which were hollowed in the solid
+rock, and watered by a clear stream running through the yard.
+
+I am conscious I have not done justice to these subjects; but this
+evening I am so low spirited, that I cannot write anything with ease.
+My companions around are reading epistles from home, while I am
+destitute of such consolation. These are unavailing regrets. I must
+cease my complaints. Our provisions are come, and they must be prepared
+for to-morrow’s march.
+
+
+_29th._--Before day-light we were up and making ready for Saltillo. As
+we passed through Monterey, much attention was attracted by our numbers
+and healthy appearance. Having traveled fifteen miles we arrived at
+the little town St. Catharine, situated near the mountain in the pass.
+It contains about five hundred inhabitants. Near us on the same route,
+are encamped three companies of regulars. I suffered but little from
+this day’s march; and felt that I could go twice the distance on the
+succeeding day, with as little suffering as I endured some of the first
+days.
+
+The garden of General Arista near Monterey, must have a passing notice.
+It certainly surpasses anything of the kind that I ever beheld. It is
+regularly laid out with taste and skill. The earth is raised about
+three feet above the walks. Here are flowers of all varieties and
+the most fragrant. On each side of the main path (which is made of
+plaster, white and smooth), are two large basins with fountains rising
+from the centre. But more beautiful still are two pools of water,
+the most limpid and transparent, in which may be seen myriads of the
+finny tribe. Then there is a clear cool stream flowing through white
+cement tunnels, throughout the whole garden. The shady groves of exotic
+fruits, the atmosphere laden with grateful perfumes, all conspired
+to make it a place of enchantment. Everything appeared so novel, so
+beautiful, that I almost fancied it the Garden of Eden.
+
+
+_30th._--Here we are encamped in the plaza of Rinconida, after a most
+fatiguing march of twenty-two miles. The road was broken and rocky, and
+the wind blowing to the rear nearly suffocated us with dust. This town
+is built of mud, and is half way to Saltillo. To this the armistice
+extended. Rinconida signifies secure corner, and is in keeping with
+its name, being in the intersection of two ranges of mountains. It
+could be well defended by a small force. Tending to and from the town
+is a beautiful grove of trees, forming a shady archway above, and is
+interspersed with enormous century plants, the stalks of which rise
+from fifteen to twenty feet.
+
+Quite an excitement! Arrival of the Great Western, or, the heroine
+of Fort Brown. She has every appearance of an Amazon, being tall,
+muscular, and majestic in her expression. She won laurels at the
+bombardment from Matamoros. She issued out coffee to the men while the
+bombs were falling all around her.
+
+
+_31st._--On the morning of the 31st, we were mustered for two months’
+pay; then took up our line of march as usual. Owing to the well nigh
+broken-down state of our teams, we marched but twelve miles on the
+31st. The road was hilly and dusty, but we arrived at our encampment
+in good time; the Greys being the advanced guard. This place is called
+the Warm Springs, from the temperature of the water. It is destitute of
+tree and bush, for miles around, that could be procured for fuel.
+
+  “_Camp Butler, Jan’y 1st, 1847._
+
+  “DEAR SISTER:--
+
+ “How shall I repay you for your very kind letter? You can never know
+ how grateful I am for its cheering effects. In fact I never had so
+ much need of consolation before, as we have just finished a long
+ and wearisome march from Camargo through Monterey to this place. We
+ are encamped in the dust, which, with the wind and cold, destroys
+ every moment of comfort. Our wood is issued out, two cords to the
+ regiment; but when it comes to be divided among the companies, then
+ subdivided among the messes, it is separated into small parcels
+ indeed. No wonder, then, after marching over two hundred miles, and
+ passing through so many comfortable places where other troops are
+ stationed, that we should feel disappointed in being quartered in this
+ disagreeable place. The effect is visible upon us all.
+
+ “We had been here but a few days when Col. Bowles arrived from the
+ States loaded with letters. My dear sister, if you could have seen
+ with what eagerness we listened for the announcement of our names, and
+ with what avidity we tore open the seals and devoured the contents,
+ then you would have known how dear you all are to us, and how lively
+ is the interest we take in the associations of our beloved homes.
+ I am unable to say how often I have read your letter, but every
+ time it appears new and interesting. Unto the never-to-be-forgotten
+ friends who so kindly remember me, please give the assurance of my
+ increased regard and warmest gratitude. Of my sincerity I promise
+ to convince them if we are ever permitted to meet again. We are now
+ amongst the foremost troops in the enemy’s country, having pitched
+ our tents six miles from Saltillo on the high lands of Mexico, with a
+ girdle of mountains around us. Through these there are three principal
+ passes. Gen. Wool’s division occupies beyond the city; two companies
+ of Kentucky cavalry at Rinconida Pass; and two companies of the same
+ regiment at the one on our left.
+
+ “Our discipline here is very strict, as rumor of an attack is
+ continually floating about the camp. Last night near midnight an
+ express arrived from the city, with orders that a picket guard of
+ thirty men should be stationed two miles from the camp on the road to
+ the two passes, as a large body of lancers had been discovered in the
+ neighborhood. But no further alarm has yet been given.
+
+ “We arrived here on New Year’s day, just as the Louisville Legion
+ and the 1st Ohio regiment, were returning to Monterey. We had many
+ a welcome recognition of friends in the Legion, and many jokes on
+ our bronzed appearance; and allusions made to brighter days, when we
+ attended together military encampments, dinners and target shooting;
+ little dreaming that such a meeting as this was in store.
+
+ “Yesterday several of us visited a cotton factory not far from the
+ camp, which is owned by a Scotchman, who conducts the concern with
+ ability. There are fifty girls employed, several of whom are from the
+ States. The machinery was imported from New York.
+
+ “We have just received word to garrison the city, in place of General
+ Worth’s division. Yesterday they started on their way to join General
+ Scott. The 3d regiment has already started, so I must postpone
+ finishing till we are moved.
+
+
+“_18th._--During the interval between these dates, I have been so
+employed, that I have not been able to finish these notes. We have
+so many duties to perform, that there are few leisure moments indeed
+for writing. One hundred men are detailed from each of the Indiana
+regiments for guard; besides others to work on the fortifications. Last
+night our company was on patrol. We were up all night traversing the
+streets and alleys, and every suspicious corner in the city. But there
+is so much excitement connected with these duties, that we greatly
+prefer them to the monotony of camp life.
+
+“We are now pleasantly situated, having comfortable quarters and good
+provisions. The Greys sustain that character which they so proudly bore
+at home. Yesterday General Butler remarked to his aid-de-camp, while on
+brigade drill, that we were the finest volunteer company he had seen
+in the service. Our belts were perfectly white, and our arms brightly
+burnished, which made the contrast so perceptible.
+
+“The city of Saltillo is situated on the side of a hill. It has narrow
+streets and side walks, which are roughly paved with stone. The houses
+are built of stone and mud bricks, whitened over on the outside with
+plaster. They have flat roofs. The city boasts of two cathedrals, a
+nunnery and four plazas. In the centre of the plazas are fountains
+continually playing from the centre of large basins.
+
+“The church and plaza Santiago are truly magnificent, covering a whole
+square, and the front beautifully ornamented with columns, arches
+and statuary. In one steeple is placed a town clock, and in another
+a fine collection of chimes. The plaza, when viewed from the church,
+has an imposing appearance. The side walks around lead through arches
+supported by columns. There are groves of trees at regular distances,
+and fountains in the centre, spouting forth the sparkling liquid into
+the air, forming rainbows as it falls in copious showers into the basin
+below. But these beauties are but a scanty foretaste of the splendid
+magnificence that presents itself when you enter the church. I am
+incompetent to give a just description of its solemn grandeur. The
+paintings were truly beautiful. Hundreds of images were set in large
+cases of glass, and gilded niches richly clothed in satins and velvets,
+and decorated with silver, gold and precious stones. The altar in the
+sanctum is entirely overlaid with silver, as well as the candlesticks,
+censers and other appendages. The religious awe and superstitious
+reverence they have for these things are astonishing. As they pass the
+cathedral, they take off their hats. At morning, noon and night, the
+bells commence ringing, as if the whole town was on fire, and persons
+in the streets uncover their heads. Yesterday I saw a woman walking on
+her knees over the rough stones to church.
+
+“A portion of my leisure time is agreeably spent with some of my
+Mexican acquaintances. I have made some progress in acquiring their
+language. Yesterday I dined with them by invitation. The natives
+are moving from the city in great numbers, and every day increases
+the belief that the town will be attacked. About nine o’clock the
+other night, the whole city was thrown into an uproar by an expected
+attack. Great were the stir and confusion. As the long roll resounded
+from every guard station, the crowds of terrified citizens were seen
+hurrying to their homes, closing up their stores and barricading their
+doors. The fire was gleaming from the rough stones, as the galloping
+steeds were rushing to and fro. The cries, ‘to your quarters, men, the
+enemy is upon us!’ added to the commotion and tumultuous disorder.
+
+“In a few minutes our little force was formed on the main plaza, and
+after an exciting appeal, were stationed at different points. There
+we anxiously awaited the assault, but waited in vain, and were soon
+disbanded, as the alarm was occasioned by the firing of the Mexican
+sentry upon convicts who were attempting to make their escape. It
+appears that Santa Anna had sent an order to the alcalde, requiring him
+to liberate the criminals, on condition they would join the army. This
+the alcalde refused to do; the prisoners finding this out, raised in
+rebellion, which caused our stampede.
+
+  “Yours, &c.”
+
+
+  _Camp at Agua Nueva, February 12th._
+
+We arrived at this place, on last Saturday, to join General Taylor and
+Wool, who recently concentrated their forces here. It is generally
+believed that a movement is contemplated upon San Luis Potosi, or
+Zacatecas.
+
+It is quite cold in this elevated situation, and we have suffered
+exceedingly, especially within a few days. Last night was the first
+snow storm that I saw this winter. We use pitch-pine as wood, and chop
+it ourselves upon the mountains, six or seven miles from the camp, by
+the road.
+
+We now occupy the post of danger, and know not what is in store for
+us. So many reports have been in circulation, that we are almost
+indifferent to what we hear, no matter how startling it might appear.
+But if we march towards San Luis, we shall have what we have been so
+long craving--a fight. Recently I became sergeant, to fill the vacancy
+occasioned by Thomas Gwin being made sergeant-major. Being on guard
+to-night, these notes are written during the intervals of my duties;
+having a cold, and nursing my light, which is kept flickering by the
+howling wind without. It is nearly eleven, and time to awaken the
+second relief.
+
+
+_13th._--Last night I was so cold and uncomfortably situated, that
+I was incapable of holding my pen, but I have commenced early this
+morning, hoping to finish before my companions start away. There
+was rain last night, and it don’t seem so cold at present, but the
+mountains are still covered with snow. This place is truly romantic,
+and presents some of the finest prospects I ever beheld. There is the
+extended plain, dotted with white tents, and the huge mountain piles
+around excite the loftiest sentiments. If the gorgeousness of the
+sunsets could be transferred to canvas, the painter might be called a
+wild enthusiast.
+
+Dear sister, in sending you this journal, I am actuated by the
+expectation of a long and perilous march. It is well to dispense with
+all superfluous weight. Please take care of this till I return, if
+I should be so fortunate. I know not whether to ask you to continue
+writing, as it is doubtful whether your letters would be received. I
+shall hasten to apprize you of our next movement. Remember me to all
+my friends, my mother and brothers in particular. My fingers are so
+benumbed that I cannot write any more.
+
+
+_28th._--During last week, I have passed through so many thrilling
+scenes, that I am unable to describe them in regular order. Last Sunday
+we received orders to strike our tents and prepare to march. Before we
+had formed a line, and the command given, “file left,” the most of us
+were ignorant of our place of destination. But so soon as we commenced
+marching towards Saltillo, there was an end of discussion.
+
+Traveling about sixteen miles, we arrived at Buena Vista. After
+pitching our tents, we lay down supperless, for we had neither wood nor
+provisions. Scarcely had I fallen asleep, when the news was circulated
+that a mail had arrived. Soon after a letter was handed me from my
+friend Mrs. W., but, having no light, I was forced to postpone the
+reading till morning.
+
+We had scarcely finished our breakfast, when the long roll was beaten,
+calling us all to arms, as our picket guard had just arrived with
+the intelligence that the Mexican army was approaching. Having packed
+our wagon and formed a line, we were marched one and a-half miles
+towards the enemy, and stationed on a ridge just behind the narrow pass
+in which Major Washington’s battery was placed. There we waited the
+approach. The Mexicans had encamped the night before at Agua Nueva,
+causing the Kentucky and Arkansas cavalry, who were guarding some
+provisions, to destroy them and retreat in the night.
+
+We were greatly indebted to Colonel May and Captain M’Cullough, who
+rendered us much good service as spies. The intelligence which they
+brought caused us to leave the plains of Agua Nueva for a very strong
+and advantageous position.--Whilst we were awaiting the onset, I read
+Mrs. W.’s letter over and over again. It was encouraging, and afforded
+many topics for contemplation.
+
+Having remained in this position more than half the day, we were
+ordered over to another height on the left, near the foot of the
+mountain, where we were, during the night, occasionally receiving a
+shot from the enemy’s battery. (See Map, Letter D.) Toward evening,
+the two rifle companies, from each of the Indiana regiments, commanded
+by Major Gorman, who were stationed on the left, upon the side of the
+mountain, (see Map G,) were fired upon by an immense body of the enemy,
+who had also ascended the mountain. A heavy fire was kept up till dark,
+when all was silent, save the echoing of the enemy’s trumpets. I never
+shall forget the peculiar melody of those sounds as we lay upon our
+arms, hungry, and shivering with cold. It was a prelude to the awful
+din of next day.
+
+Before hostilities commenced, a flag of truce was sent by Santa Anna
+with dispatches to General Taylor, stating that he was here with
+twenty thousand men, and to save loss of blood, demanded immediate
+capitulation. General Taylor is said to have replied, “If you want
+us, come and take us!” It looked almost like madness, with an army of
+four thousand five hundred men, and sixteen small pieces of cannon, to
+compete with a force, which all our prisoners, and Santa Anna himself,
+agree in being twenty thousand men, and seventeen pieces of cannon--of
+which eight were sixteen and twenty-four pounders. What a fearful
+difference! Yet that small army of raw, inexperienced volunteers not
+only struggled against twenty thousand strong of the flower of the
+Mexican army, commanded by one of the ablest generals in the world, but
+obtained a complete victory. This I hold to be one of the greatest
+achievements upon record.
+
+Before I proceed further, I must confess my inability to give an
+accurate description of the whole action. The excitement and interest
+I experienced in what was passing immediately around me, occupied all
+my attention. I shall, therefore, for my future perusal, detail my own
+feelings and actions, together with what came under my own observation
+during the hazardous conflict.
+
+At sunrise, on the following day, the roaring of the enemy’s cannon
+announced the commencement of hostilities. A heavy fire was opened upon
+our riflemen upon the mountain, but they returned it in a handsome
+style. They were reinforced by a part of the 2d Illinois regiment and
+Kentucky cavalry, but still the odds were greatly against them. The
+whole mountain side, as far as the eye could reach, glittered with the
+enemy’s bayonets and lances.
+
+It was about nine o’clock in the morning when our regiment and a
+battery of three pieces, commanded by Lieut. O’Brien, marched out
+towards the battery which had been playing against us during the
+night and morning. We formed a line in front of three regiments of
+Mexico’s oldest soldiers (see Map O). It was an awful moment to face
+the thousands of veterans in solid column, with their gaudy uniforms
+and showy banners. But we had no time for admiration; for, before our
+line was formed, they had fired two rounds, which we soon returned
+in right good earnest. I was at my post in the rank of file closers,
+and was urging the men to form in their proper places, when Captain
+Sanderson cried out, “Never mind, Frank, fire away!” which I did, with
+all possible haste. About this time, the battery on our left (see Map,
+Letters M, B), opened upon us a deadly fire of grape, which raked our
+flank with terrible effect; still we stood front to front, and poured
+our fire upon the infantry, which did us but little injury, as they
+shot too high. But the battery on our left galled us exceedingly.
+It appeared as if we had purposely halted in their exact range, and
+the whole atmosphere resounded with the whizzing shot that came with
+increasing precision. Apollos Stephens was the first of the Greys to
+fall. He received a grape shot in the head, and fell back almost into
+my arms. O, how shall I describe the horror of my feelings? There lay
+quivering in death one of my comrades, with his eyes upturned, and the
+tears starting from them. It was a sad and touching scene--one that
+will never be effaced from my memory. I was loading when he fell,
+and compressing my lips, and smothering my emotions, I stepped over
+him and fired. Our captain was the next to fall, exclaiming “_I’ve
+got it, boys!_” A grape shot had struck his scabbard, which saved his
+life. Being ready to fire again, I stepped into a vacant place in the
+ranks, where I continued to load and fire without noticing anything
+around. The only thought I remember to have had was, “What a wonder
+I did not receive Captain Sanderson’s shot, as I was next to him on
+the same line! so the ball must have passed me before it struck him.”
+All was hurry and excitement, each working hard and doing his best.
+Occasionally a cannon-ball would whistle over our heads, or strike the
+ground near us, throwing the rock and dirt in all directions.
+
+We had fired about twenty-one rounds, when I heard some one say, “They
+are all retreating!” and turning, I saw that the right wing had gone,
+and the left starting. But several who had not heard Colonel Bowles’
+order to retreat, cried out, “Halt, men! for God’s sake, stop!” At
+this, many of us hesitated; but the retreat was general, and the enemy
+fast advancing upon us, led on by a large force of lancers. At length,
+Lieutenant Cayre, then in command, remarked, “It’s no use, boys, to
+stay here alone; let _us_ retreat!” which we did, with the balls
+raining around us, and the lancers at our heels. We rallied, by order,
+on the brow of the ridge from which we started in the morning, but were
+told to fall back upon the ridge on which we were first formed on the
+morning of the 22d. Here many of us met the Mississippi regiment of
+riflemen, who had just arrived from their quarters in town.
+
+The more I reflect upon our position in the opening of the conflict,
+the more I am at a loss to understand the policy of sending the 2d
+regiment against such an overpowering force. We were three-quarters of
+a mile from any assistance, except that of the gallant O’Brien, who
+with his three little pieces did such great execution.
+
+Our field officers all deny giving the word retreat, and General
+Lane, they say, intended to charge. Had he given the word, the charge
+would have been made; but how dreadful would have been the slaughter
+of our troops. It is unprecedented in the annals of warfare, for
+eight companies to rush against a disciplined force of three thousand
+infantry supported by twelve hundred lancers. Had we remained fifteen
+minutes longer, it is thought not one half of us would have survived.
+Their battery was fast getting our exact range, and it is astonishing
+that so many of us escaped.[1]
+
+[1] In justice to General Lane who, being ordered by General Wool to
+move forward and meet the enemy that were advancing in strong force,
+selected this point for their reception--I will state, that since I
+have surveyed, with more leisure and coolness, our position, I am
+convinced that a more judicious spot could not have been chosen. It was
+the only place where our small force could present so large a front as
+the enemy, who, with their overpowering numbers upon almost any other
+ground, might have surrounded and destroyed us. To show the probability
+of success, had the intended charge been made, I will here quote from a
+conversation after the battle. General Wool remarked to Colonel Bowles,
+in the presence of General Lane, Colonel Curtis, 3d Ohio regiment, and
+Major Washington, Light Artillery, that if he had withheld his order,
+“Cease firing, and retreat,” and had carried out the intention of
+General Lane, to advance, his regiment would have executed one of the
+most brilliant things ever done on any field of battle; “for,” said he,
+“Santa Anna, in his own official report, remarks, ‘that he had already
+passed an order for his forces to retreat, when the enemy, after a most
+determined resistance, was observed to give way in great confusion.’”
+
+My object in thus pausing in my description, is to show the position
+of our field officers, and why the 2d Indiana regiment scattered
+themselves into other regiments. Here, one instance will be related
+showing the qualification of Colonel Bowles to command. On the night of
+the 22d we were surprised by a body of horsemen, supposed to be lancers
+endeavoring to outflank us. This was pointed out to the Colonel, who
+called us to attention, and attempted to form us in a line of battle
+before the enemy. But, in his ignorance of tactics, he got us with the
+“left in front,” and while we were maneuvering to get right, we might
+have been cut to pieces. Fortunately, however, the alarm was caused by
+some of our own cavalry, who were returning from watering their horses.
+
+At this display of incapacity in the hour of danger, great murmuring
+arose amongst the officers, and the men were all unwilling to trust
+their honor and lives in his hands. A committee was sent to General
+Lane, requesting him to be with us on the following day, which he
+promised faithfully to do. Now in these remarks, I do not wish to
+express any disrespect to Colonel Bowles, farther than as a military
+commander. I believe him to be intelligent, courteous and humane, and
+judging of actions during the engagement, I have no reason to doubt
+his or Colonel Haddon’s bravery. But who would wonder at our want
+of confidence in these officers, after beholding their ridiculous
+blunders while on drill? Who would blame the men for preferring other
+commanders, when the enemy commenced crowding upon us? One-third of
+us joined other regiments, and the remainder rallied under Lieutenant
+Colonel Haddon, forming a distinct front as a regiment, and fought with
+firmness alongside the Mississippians and 3d Indianians.
+
+After many fruitless exertions to rally his men, Colonel Bowles ordered
+those who were near him to join the Mississippians, at the same time
+falling in himself. We marched along the ridge to meet a large body of
+lancers supported by infantry. We soon opened our fire upon them, and
+that, too, in a manner which forced them to retreat, and pursuing, we
+halted at intervals, and continued our leaden hail. Having followed
+them across two deep ravines, they were reinforced, and came rushing
+down upon us like a tremendous avalanche, pouring out upon us their
+incessant shot. We fell back across the two hollows, occasionally
+halting to fire upon our pursuers.
+
+While in the second ravine, the sun shining with burning heat,
+famishing for want of water, and almost overcome with exertions, I
+leaned against a rocky precipice, and there made up my mind to die.
+Sad and hopeless were my thoughts, when, raising my head, I beheld the
+Mexican line firing down upon us. At this I was involuntarily aroused,
+and recollecting an expression in Mrs. W.’s letter, “If you should
+die, it would kill your mother,” I made an effort for those I loved
+and gained the summit. But oh! God! what a merciful preservation! The
+balls rained around, scattering death and destruction on every side.
+It appeared like the bed under a shot tower, so thick and fast did the
+balls hail about us. A man just before me was shot down, and a brave
+lieutenant, who so kindly made room for me in his company, fell wounded
+behind me, exclaiming, “Give me water! give me a handkerchief!” I gazed
+upon his supplicating countenance, but had nothing to relieve him.
+Rendered reckless by the sight we had just witnessed, we rallied again
+upon the top of the hill, and with the 2d Indiana under Lieutenant
+Haddon, opened a terrible fire upon our blood-thirsty enemies. They
+soon retreated in the utmost disorder.
+
+Having fled beyond our fire, a detail was sent to explore the ravine
+for our wounded. While descending, what a shocking scene presented
+itself! The barbarians were cruelly butchering our wounded, and
+stripping them of their clothes. But our unerring rifles soon stopped
+these atrocious murders. Our success was but poor compensation for the
+blood of twenty brave comrades. The poor lieutenant was left naked with
+his throat cut from ear to ear.
+
+About this time the city of Saltillo was attacked by two thousand
+lancers, from Palamus Pass, commanded by General Minon, but being
+unable to face Major Webster’s well-directed battery from the redoubt
+fort, were driven back, after endeavoring to join the main army
+by passing along the foot of the mountain. Simultaneous with this
+engagement, a charge was made by a large body of lancers upon our
+baggage and provision train, at the Ranch (see Map, Letter J) Buena
+Vista, and were met by several companies of Kentucky and Arkansas
+cavalry, who were unable to withstand the shock, and were forced to
+fall back. Then the extended line of lancers came rushing down with
+their weapons poised ready to murder and rob our wounded, and sack our
+wagons. But they were checked by the appalling fire from the Indiana
+rifle battalion, who were ordered from the mountain with others who
+had rallied there. (See Map, Letter K.) If the latter could be blamed
+for retreating thither, they more than balanced it by their coolness
+and heroic defence in this instance. So firmly and furiously did they
+resist the Mexicans, that the plundering wretches gladly made their
+escape, leaving the plain strewed with their dead and dying. They
+were now pursued by Colonel May’s squadron of dragoons, who, with two
+pieces of Captain Bragg’s battery, had just come up. They were driven
+along the foot of the mountain into a gorge, where they joined a force
+that the Mississippians, reinforced by the two Indiana regiments and a
+twelve-pound howitzer, had been firing upon with great execution. There
+we had them in a dreadful dilemma, Colonel May (see Letter U), and the
+two pieces on the left pouring forth a destructive fire as they closed
+in. Below, on their right, was stationed a battery of three pieces,
+commanded by Captain Sherman, (see Letter Z,) emitting without mercy
+the messengers of death. Still further to the right was our position,
+(see Letter H,) and with our little cannon was opening their ranks at
+every fire. At this interesting crisis, just as we were about to obtain
+a brilliant victory over a force of more than five thousand strong,
+we were ordered to cease hostilities, as a flag of truce had arrived.
+There was an immediate cessation on _our_ part, which the enemy
+faithlessly took advantage of, by passing out of the gorge, but not
+without suffering greatly from the fire which opened upon them, when
+their object was discovered.
+
+The greatest portion of the afternoon was spent with these events. The
+enemy, now making another desperate effort, came charging down upon us
+in all their splendor. We at once formed a V. (See Letter H.) The 3d
+Indiana on the right, the Mississippians and 2d Indiana forming the
+angle. As we stood awaiting their approach, Colonel Davis cried out,
+“Hold your fire, men, until they get close, and then give it to them!”
+I never shall forget the imposing appearance of the Mexicans as they
+bore down upon us with their immense columns, glittering lances, and
+parti-colored banners. There was one company mounted upon white horses,
+and wearing brass mounted caps, with red plumes. At first they started
+off in a trot, and as they accelerated into a graceful gallop, with
+lines accurately dressed, and lances poised for action, within twenty
+paces of us, General Lane gave the word--“_Now give it to them!_”
+Here I shall fail in description. What language could I use to convey
+a vivid impression of the din and crashing thunder of this terrible
+collision? How awful was the report and the destruction of our deadly
+fire. The enemy at first slackened, then halted and wavered; then
+turning toward their battery, on the ridge, they fled, terrified and
+panic-stricken.
+
+It was, indeed, a glorious achievement. Whole platoons appeared to
+droop and fall before our unerring shot. It seemed as if every man
+felt that he was an American soldier, and that he was individually
+responsible for the performance of that hour. And as the victors
+pursued the retreating foe, they rent the air with their shouts of
+triumph, throwing up their caps, and giving every demonstration of the
+highest delight.
+
+I now felt for the first time like exclaiming, “There is something
+glorious in the pomp and circumstance of war.” I almost thought that
+I could not be killed, and I felt secure when I reflected about the
+bloody ravine, and my miraculous escape. General Lane here rode by,
+exclaiming, “_We’ll whip them yet!_” He forgot entirely his wounded
+arm, and rode about the field cheering and encouraging the men. It
+was truly a happy time! Our little cannon had played into them so
+effectually, and it was defended so nobly! In a few minutes we were
+again facing the foe upon the ridge, near the place where we were
+stationed in the morning. (see Letter S.) The enemy had planted there
+a heavy battery, (see Letters M and B,) and as we ascended the brow of
+the hill, we were warmly received by an incessant fire, both from the
+battery and the Mexican reserve of six thousand that were pursuing
+the Illinoisians and Kentuckians, who had _heroically_ attacked this
+overpowering force. This was the unfortunate charge in which fell the
+gallant Hardin, McKee, and Clay;--a trio of mind, heart and courage,
+ever to be lamented. (See Letter P.)
+
+We soon, however, nothing daunted, paid them back with interest, and
+again the air was eloquent with our victorious cheers. We there fell
+back for protection, under the brow of the hill, and calmly listened
+to the whizzing shot from the enemy’s battery striking the ground in
+front and rear, scattering the stone in every direction. Thus was spent
+the remaining portion of the day. Occasionally we would be called to
+attention, and marched to the brow of the hill, when we suspected some
+demonstration upon our cannon, which was used in silencing the enemy’s
+battery. About sundown, the thundering of artillery ceased, and the
+conflict of the day was over.
+
+The Mississippians having received orders to repair to their quarters
+in town, myself and Lieutenant Kunkle, (who so proudly bore our banner
+in the thickest fight,) accompanied them as far as the hacienda. Our
+noble banner was executed by the skill and patriotism of the New Albany
+ladies.
+
+Such a night as I spent at the hacienda, God grant that I may never
+spend again! What piles of wounded and dying that lay groaning around!
+After wandering about among the wagons which were formed into a hollow
+square, I came across one of my messmates. Warmly grasping each
+other’s hands, we mutually inquired for our comrades. Then came the
+mournful tidings of the death of Francis Baily, Warren Robinson, and
+Charles Goff, three of my warmest friends, and brightest ornaments of
+our company. What a shock was this!--two of our beloved messmates,
+by whom, side by side, we had laid together for so many long months
+on the soldier’s couch, and with whom we had so often joked, while
+around our simple meals! But no more shall we mingle together in such
+uninterrupted harmony! I sought among the wagons for my blanket, but it
+was not there. I desired no food, notwithstanding I had eaten but a few
+pieces of hard crackers since the morning before. I was now becoming
+conscious of my excessive weariness. Loss of sleep, violent exertion,
+and the rain, which drenched us several times during the day, caused my
+bones to ache in every joint. Weary and faint, I resorted to the roof
+of one of the houses, hoping to get a little rest, but in this I was
+disappointed. I had scarcely begun to occupy a portion of a blanket
+kindly offered me by one of my friends, when we were alarmed by an
+unexpected charge from the lancers. Great were the excitement and hurry
+on the house tops. Soon every one was ready and waiting for the onset.
+Thus the night was spent in continual alarms, anxiety and suspense. We
+were ordered to lie upon our arms, and five times during the night were
+we aroused for the expected assault from the lancers, whose watch fires
+gleamed ominously from the mountains around. The sun had hardly arisen
+upon the bloody field, when I gladly arose to seek a fire, as my limbs
+were benumbed with cold. While seated on a stone near a fire, I was
+brooding over my fate, and that of our little army.
+
+Gloomy, indeed, were my thoughts when my eye caught an open letter
+lying upon the ground. Picking it up, I read carelessly until I started
+at beholding my own name. Soon I found that the letter was written from
+my beloved home, by one of my female friends to my departed associate,
+Charles Goff. Never did I before so fully appreciate the value of
+friends, or a quiet home, away from the tumult of war. “A---- says she
+loves her friends.” How did these sweet words sink into my heart, and
+what would I not have given to have realized their import! But what
+a contrast between my situation and that of my friends! The dead and
+the dying, with mangled and bloody features, staring at me, and a day
+of deadly strife before us! I felt that my own destiny would soon be
+sealed, and resolved to hold out to the last.
+
+If ever permitted to return home and mingle with valued friends, and
+enjoy the blessings of peace, doubtless many of the horrors will be
+effaced from my memory. But never shall I forget the terrible night
+that I passed at the hacienda of Buena Vista.
+
+Having partaken of some refreshment, many of us proceeded to the field
+to rejoin our regiment. While wiping out our muskets and renewing our
+flints by the way, we were passed by six men, bearing the body of a
+wounded companion. Looking over their shoulders, I recognized my old
+friend, Sergeant Combs, of the 3d Indiana regiment. The poor fellow had
+been shot in the leg, and had lain out in the field all night. In the
+morning his naked body was found amidst a plat of prickly pears, with
+his flesh penetrated by the long needles. He has since died.
+
+Upon our arrival we heard of the retreat of the Mexican army, and
+parties were sent out in all directions for the killed and wounded.
+Another and myself obtained leave to seek for the body of Warren
+Robinson. The last account we had of him he was in a ravine, completely
+exhausted, and some one passing, remarked, “Warren, don’t stop here;
+you’ll surely be killed!” He answered, “I can’t help it; I can go no
+further; and if I never see you again, you will know where to find me.”
+This place was described to us, and we found him accordingly. He was
+pierced to the heart by a ball, and robbed of his shoes and stockings,
+and the contents of his pockets.
+
+After gazing upon the placid countenance of young Warren, and
+reflecting on his blasted hopes of the future, we raised him up,
+and with assistance, bore his bleeding body to the summit of the
+ridge. Having secured a wagon, a party of us went in search of others
+belonging to our regiment. At length we found the horridly disfigured
+bodies of Apollos Stephens and Francis Baily. They were stripped
+of their clothing, and near the place where they had fallen in the
+morning. At first the icy coldness of their naked bodies sent a thrill
+of horror at every touch throughout my whole frame: but my firmness
+of nerve increased a little as we progressed in filling up the wagon
+with our fallen associates. How my blood chills when I reflect on
+those dead soldiers stiffened in frightful attitudes, that were heaped
+upon one another so promiscuously! On which side soever we turned our
+eyes, could be seen friends and foes terribly mangled, and lingering
+in torture. Many of the Mexicans would call out “Agua, agua!” and
+gulping it down, they would appear resigned to die. And thus the day
+was spent in wandering over the bloody field, and burying the dead.
+The dead of each regiment were laid together. Our boys were placed
+side by side--Robinson sharing the blanket of his college mate Capt.
+Kinder. After preserving a lock of each one’s hair, as a memento for
+their friends, we fixed a cross made with staves, with their names cut
+thereon, and raised over them a pile of stones. Then we fired three
+salutes, and with a heavy heart returned to our camp. But wherever
+we went, the dead appeared to follow us, and the most solemn silence
+reigned around. On one side lay fifty of our killed, all stripped;
+and everywhere could be seen the effect of the raging conflict. After
+a cheerless supper, we performed the last duties of humanity to our
+worthy messmate Charles Goff. It appears that during the retreat he
+received a lance wound in the left elbow, and repaired to a stream
+below the rancho to quench his thirst and bathe his wound when he was
+attacked by five lancers. Seeing him unarmed, they pursued him at full
+speed. After chasing him some distance, they overtook him, and Charles,
+finding it impossible to save himself, faced the foe and received the
+lance in the breast, before assistance could arrive, and died with an
+expression of calm resignation lingering upon his countenance. He was
+a good soldier, taking pride in the performance of all his duties. As
+a Christian he was invulnerable to the temptations of camp. The last
+conversation I had with him was just before we marched out to the
+battle. I inquired if he had expressed to any one his wishes in case
+he should fall. He replied “No!” with great seriousness. “Hadn’t you
+better?” said I. “Yes, and now is the time,” he answered. “I wish you
+to collect my papers and things, and take them home to my friends; you
+know who I mean.” I asked if he just meant those things that might
+be preserved as mementos. Here we were called to attention, and he
+replied by nodding his head. Then I heard his rallying voice after the
+retreat, which was the last I saw of him until he was cold in death. O
+how deeply do we feel his loss! Few, indeed, were like him! We buried
+him by moonlight on a grassy ridge near the spot where he fell. Several
+officers of the brigade and regiment were present.
+
+The next day our scouts brought word that Santa Anna was still at Agua
+Nueva, and perhaps would renew the combat. We were ordered to strike
+our tents and repair again to the battle-field, where we remained
+suffering almost every inconvenience. In my mess there was not a single
+blanket, and many of us had lost our knap-sacks with our clothing.
+So we were forced to sleep upon a stony mattress with our tents as
+coverlids. Even such rest as these could afford was uncertain. Our
+dreams were feverish with anxiety, and every hour we expected the long
+roll, and our arms were continually near us. The long roll! oh how
+terrible the sound! fraught with danger and death! The soldier alone
+can appreciate its import! A night or two before, we heard its sounds
+with all its horrors.
+
+Others with myself were conversing over a few coals when General Lane
+came up, and ordered Colonel Bowles to have the long roll beaten as an
+express had just arrived, stating that our picket guard had been fired
+upon. This was a fine opportunity to witness its startling effect,
+and waking up my mess we looked down the ravine, where so many were
+reposing their weary bones. The moon looked down upon us in all her
+silvery brightness, save in the gloomy shadow of mighty rocks, which
+were piled up stratum upon stratum. Death-like stillness pervaded the
+scene, but it was like the silence that preludes the mighty crash of
+the avalanche; for now the rolling of a hundred drums spreads from line
+to line. In an instant the white coverings are flying in the air, and
+the whole army starting to their feet with every variety of expression
+visible upon their excited countenances.
+
+After shivering in the cold for an hour, we were permitted to lie down
+again upon our arms. Thus the time was spent in continual alarms and
+rumors of assault, which was worse than a dozen battles. We were all
+anxious to meet the enemy again, to be revenged for their cruelty to
+our wounded brethren, and felt that we could fight more effectually,
+as we were hardened into indifference by the past, in beholding our
+falling comrades. And further, we had a reinforcement of General
+Marshall with three eighteen pounders. At length intelligence came that
+the Mexican army had taken up their line of march to San Luis Potosi;
+when we were ordered immediately to make preparations for our old
+encampment.
+
+It was a melancholy march, as the road all the way for sixteen miles
+was strewed with the Mexican dead. On a single spot I counted thirteen
+bodies; and at times the scent from the field was almost insupportable.
+After an exciting march, we pitched our tents near the spot which we
+left a week before; and part of the time since the enemy had occupied,
+whose fires were not extinct on our return.
+
+
+_March 14th._--We received orders last Wednesday to remove back
+to Buena Vista, as the water was so bad, and the wind and dust so
+disagreeable, that even our horses were affected, causing them to
+die off in great numbers. I was on guard the day before, and was not
+relieved till the next evening. To remain a whole day in the hot sun
+without shelter, and remain up all night in the cold wind, is a poor
+preparation for a hard march. The guard went in advance, and upon our
+arrival, were posted around the camp, which is situated on a ridge,
+sloping from the mountain. There we remained until the tents were
+pitched, and a new guard mounted.
+
+We have not yet forgotten the battle. Low spirits, gloom and regret
+are everywhere manifest. There are but few who have not to mourn the
+loss of friends and relations. Our wounded are all doing well, save
+Granville Jackson, the inflammation of whose hand has brought on a
+severe fever; and Alfred Goodwin, who, though badly wounded, may
+eventually be able to walk.
+
+Much controversy is going with regard to the retreat of the 2d
+regiment; but as it can easily be proved that Colonel Bowles gave the
+order, the matter will soon be favorably understood. But the subject
+gives us great trouble. If our reputation must suffer, it is, indeed,
+very discouraging.
+
+General Taylor, the adored of the army and the hero of many battles,
+has removed with Colonel May’s squadron of dragoons, Bragg’s battery of
+light artillery, and the Mississippi regiment, to Walnut Springs, near
+Monterey. We are still under the command of General Wool, who, although
+a brave and prudent officer, and a good soldier, falls below “Old
+Rough” in gaining the affection of the men.
+
+There are many things I should like to speak of, especially incidents
+and personalities connected with the battle, but am now too low
+spirited to relate them. We are so inconveniently situated, the wind
+and dust so disagreeable, and at times so concerned for our reputation,
+that often I become almost hopeless, and hardly care what becomes of
+me. The Indiana troops have truly been unfortunate, the 2d regiment
+especially. From our first entering the service, we were organized in
+a way contrary to our wishes, and officers selected for us, wholly
+unqualified for their stations, and even below mediocrity in point of
+talent, which rendered them unable to draw the attention of commanding
+officers to their regiment. Thus the greater portion of our time was
+spent in obscurity, wading the lagoons of Belknap--since which time we
+are nothing indebted to our regimental officers for our preferments.
+General Lane has made the 2d regiment what it is, and does honor to the
+position which he occupies. But I will cease this strain, as I promised
+to complain as little as possible.
+
+
+_April 1st._--We are now comfortably situated, and have less cause of
+complaint than at any other time during the service. There are two
+tents pitched together for our mess of eight, who live together in
+the greatest harmony. Our floor is carpeted with grass, and we have
+blankets and provisions in abundance. But still we look with much
+solicitude to the time when we shall meet our beloved friends at home.
+What a blank is caused by the absence of some of the refinements of
+society, and to be so long absent from those we love, with but little
+to occupy their places!--I have learned much in the tented field; I
+have learned how few are the real wants of man; I have learned to
+abstain from luxuries and to suffer privation; I have learned how
+important is good female society for the refinement of manners and the
+elevation of morals.
+
+All is quiet again, and the excitement attending the expectation of
+another attack, has died away. Until recently, the guard duty has been
+very heavy, and the troops in constant anxiety, caused by the rumors
+in circulation.--Yesterday the whole division passed in grand review
+before General Wool and staff. It was truly a splendid sight. Seven
+regiments of infantry, accurately dressed upon the same line; two
+squadrons of dragoons, and four batteries of flying artillery. The
+gaudy uniforms of the general and staff added to the imposing grandeur
+of the parade. The camp is generally in good health, and our wounded
+doing well. The loss of Goff and Robinson is a severe stroke to the
+mess. I assure you we miss them greatly, especially at night, when we
+see their vacant places upon the ground.
+
+
+_May 15th._--During the last two weeks much excitement has prevailed
+with regard to the court of investigation, concerning the conduct of
+Brigadier-General Lane and Colonel Bowles. General Lane called for an
+examination on his own part, and was acquitted with the highest praise.
+Colonel Bowles, by request, followed his example, and the charge of
+incapacity for performing the duties of his office, and ignorance of
+company and battalion drill, were fully substantiated, as well as the
+word of giving the order--“Cease firing, and retreat!” This decision,
+approved by Generals Taylor and Wool, at once sets at rest all doubts
+as to the propriety of our retreat, and no blame can now be attached to
+the 2d regiment for that unfortunate event.
+
+Yesterday evening we received the joyful orders to take up our line
+of march for the mouth of the Rio Grande, to start on the 24th. The
+2d Kentuckians started yesterday; the Ohioans will leave on the 18th;
+and the Illinoisians on the 30th.--We have just received a request
+from the citizens of New Albany to bring home the four bodies of our
+fallen comrades. We had already canvassed the matter, and given it up
+as impossible; but now it must be done, and preparations are being
+made for their transportation. General Lane, with his characteristic
+nobleness of heart, lends a helping hand. The Mexicans are inferior
+mechanics, and material is scarce; and we shall have to use tin instead
+of lead for coffins, as the latter is not to be had.
+
+The decision of the Court of Inquiry encouraged and animated us all;
+and the effect was quite obvious throughout the whole camp. Last night
+a number of us were convened around the fire, and were all recalling
+incidents connected with the battle. Many amusing anecdotes were
+related, two of which I shall record, as examples of great coolness in
+the heat of battle.
+
+During the engagement of the rifle battalion on the mountain, a
+deer sprang up in the ravine, between the two fires; a backwoodsman
+observing it, cried out, “Look at that deer!” at the same time
+diverting his aim from the enemy in front, instantly fired, and brought
+the animal to the ground. Another happened under my own observation.
+When Captain Sanderson fell, badly shocked by a grape shot striking
+his scabbard, a man just before him, who was squatted down examining
+his flint, seeing the ball fall near, picked it up, and turning to the
+captain, who was gasping for breath, threw it towards him, carelessly
+remarking, “There it is, Cap.!”
+
+A ludicrous story was told of a party composed of different regiments,
+in an eating-house of Saltillo, after the battle. They were drinking,
+and relating their wonderful exploits. One in particular was eloquent
+upon the daring bravery of his captain. At this crisis, a fellow
+who had been unnoticed before in their merriment, advanced from his
+corner, and enthusiastically insisted that the captain spoken of was a
+brave man, for he saw him charge unarmed upon a presented pistol. The
+stranger was invited to drink, then urged to relate the circumstance,
+and, after smacking his lips with great satisfaction, he commenced.
+“During the fight I retreated to town, and hid in an old bake oven that
+stood on the hill, as you enter the city. Well, I hadn’t been there
+long, before I spied your captain making for it at full speed. I drew
+my revolver, and when he came, cried out to him, ‘Don’t you come here,
+or I’ll blow your brains out!’ _But he rushed right in._”
+
+An amusing incident came off the other day, at the mounting of the
+guard. A lieutenant, rather too fond of the “Critter,” with a seedy
+suit that had evidently not been worn out with brushing, was rejected,
+and charged by our worthy inspector-general not to present himself
+there again. So the next day _another_ was detailed, not much better
+attired. When the inspector perceived him, he rode up, and severely
+remarked, “Didn’t I tell you not to come back here?” He respectfully
+rejoined: “A slight mistake, colonel, there is one grease spot less on
+this hat!”
+
+
+  “_Camp near Reynosa, June 4th._
+
+“According to general orders, we broke up our encampment at Buena Vista
+on the 24th of May, and after a march of ten successive days, over
+three hundred miles, we arrived at this place. From this we will take
+steamboats to the mouth of the Rio Grande, thence by vessels to New
+Orleans, where we will be discharged, and permitted to return to the
+endearments of home. It rained during our last day’s march, and has
+continued to do so ever since, at intervals.
+
+“Yesterday several of us visited Reynosa, but saw nothing interesting,
+with the exception of the funeral of a little girl five years of age.
+We were first attracted to the house by music from the drum, clarionet
+and violin. When we arrived, we found the child placed upright in the
+coffin, and tricked out with finery. On the head was a kind of a crown
+of gilt paper; in one hand the figure of a saint, and in the other a
+piece of black wax. After many of the family and friends had assembled,
+they formed a ring before the door, and commenced dancing and waltzing
+in the most unfeeling manner, until the corpse was conveyed to the
+church. They bear the death of children with great philosophy, deeming
+it no source of lamentation. The more extensive my acquaintance
+with this people, the greater my pride and satisfaction in being an
+American. The beauty and ingenuousness of their women, the mind and
+energy of their men, are so far below those of ours, that we cannot
+make a comparison. They plough their fields with a straight stick
+running slanting into the ground; never did I see them make a pound of
+butter, although they obtain vast quantities of milk; and they justify
+their laborious way of crushing corn by saying ‘it makes it much finer
+than mills.’”
+
+On the 3d of July, we landed at New Albany, after an absence of a
+year. Multitudes of friends and acquaintances stood upon the shore to
+await our arrival. The cannon roared to welcome us, and a flowery arch
+spanned the street in all its beauty, to cheer us as we entered the
+city. On the fifth, we transported to the solemn grave, the remains
+of our fellow soldiers. Great was the concourse which followed in
+procession, to witness the mournful ceremony. A noble monument will
+mark the resting-place of those who fell in battle.
+
+Reader, I will now come to a conclusion. This journal was written for
+my own reference and amusement, but I have made some verbal alterations
+for your accommodation. Had I more thoroughly revised the style and
+arrangement in my manuscript, doubtless fewer errors would have
+existed; but it may go forth with its imperfections, for I have neither
+time nor inclination to put on a higher polish.
+
+Other companies than the _Greys_, and other regiments than the
+_Second_, could not expect a description of all their glorious deeds
+from one whose humble position limited his survey and sources of
+extensive information. If I have erred in statements, it was of the
+_head_, and not of the _heart_. With a clear conscience I have written
+what I have written. Brilliant actions, no doubt, were performed at
+Buena Vista that will never shine upon canvas, nor glow in the poet’s
+song, nor blaze upon the page of history.
+
+
+THE END.
+
+
+
+
+Transcriber’s Notes
+
+Errors in punctuation have been fixed.
+
+Page 15: “of the corse” changed to “of the corpse”
+
+Page 32: “kind of opheclide” changed to “kind of ophicleide”
+
+Page 40: “suddenly arroused” changed to “suddenly aroused”
+
+Page 44: “Nothwithstanding the discouragement” changed to
+“Notwithstanding the discouragement”
+
+Page 48: “a rout that did not pass” changed to “a route that did
+not pass”
+
+Page 58: “the moun ains” changed to “the mountains”
+
+*** END OF THE PROJECT GUTENBERG EBOOK A CAMPAIGN IN MEXICO ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that:
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg-tm trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org
+
+This website includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
